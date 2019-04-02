@@ -3,6 +3,13 @@
 
 ## :memo: Blog Posts
 
+**2019**
+
+- [Micro-frontends, the future of Frontend architectures](https://medium.com/@lucamezzalira/micro-frontends-the-future-of-frontend-architectures-5867ceded39a)
+
+
+**2018 and earlier**
+
 - [Micro Frontends: extending the microservice idea to frontend development](https://micro-frontends.org/)  
 
 - [A High-Performmance Solution to Microservice UI Composition](https://www.thoughtworks.com/talks/a-high-performmance-solution-to-microservice-ui-composition)
