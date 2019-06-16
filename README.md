@@ -5,6 +5,12 @@
 
 **2019**
 
+- [I don’t understand micro-frontends](https://medium.com/@lucamezzalira/i-dont-understand-micro-frontends-88f7304799a9)
+
+- [Five Things to Consider Before Choosing Micro Frontends](https://rangle.io/blog/five-things-to-consider-before-choosing-micro-frontends/)
+
+- [Micro Frontends by Cam Jackson](https://martinfowler.com/articles/micro-frontends.html)
+
 - [Micro-frontends, the future of Frontend architectures](https://medium.com/@lucamezzalira/micro-frontends-the-future-of-frontend-architectures-5867ceded39a)
 
 - [Slaying the UI AngularJS Monolith Using Micro Frontends Architecture - A Micro Frontend Approach to a Framework Agnostic Modular UI Architecture](https://medium.com/capital-one-tech/slaying-the-ui-angularjs-monolith-using-a-micro-frontend-architecture-f6c6332652d3)
