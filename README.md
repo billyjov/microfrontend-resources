@@ -5,6 +5,8 @@
 
 **2019**
 
+- [It's About Cutting Your Domain, Not (First And Foremost) About Micro Frontends!](https://www.softwarearchitekt.at/post/2019/07/11/it-s-about-cutting-your-domain-not-first-and-foremost-about-micro-frontends.aspx) by Manfred Steyer([@ManfredSteyer](https://twitter.com/ManfredSteyer))
+
 - [I don’t understand micro-frontends](https://medium.com/@lucamezzalira/i-dont-understand-micro-frontends-88f7304799a9)
 
 - [Five Things to Consider Before Choosing Micro Frontends](https://rangle.io/blog/five-things-to-consider-before-choosing-micro-frontends/)
