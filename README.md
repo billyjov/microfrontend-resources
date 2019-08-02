@@ -92,7 +92,9 @@
 
 ## :books: Books
 
-- [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action) by Michael Geers (_Work in progress_)
+- [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action) by Michael Geers **07.2019** (_Work in progress_)
+- [Micro Frontends Architecture: Introduction, Design, Techniques & Technology](https://www.amazon.de/Micro-Frontends-Architecture-Introduction-Techniques/dp/1097927989/) by Ajay Kumar **05.2019**
+
 
 
 ## :pencil: Papers
