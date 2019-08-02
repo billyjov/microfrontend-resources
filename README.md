@@ -92,6 +92,9 @@
 
 ## :books: Books
 
+- [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action) by Michael Geers (_Work in progress_)
+
+
 ## :pencil: Papers
 
 ## :grey_question: Stackoverflow topics
@@ -104,8 +107,16 @@
 
 - [Micro frontend architecture advice](https://stackoverflow.com/q/47922293/)
 
-## Other lists
+## :bookmark: Other lists
 
-- [List of lots of ressources about micro frontend by Elisabeth Engel](https://micro-frontends.zeef.com/elisabeth.engel?ref=elisabeth.engel&share=ee53d51a914b4951ae5c94ece97642fc)
+- [List of lots of ressources about micro frontend](https://micro-frontends.zeef.com/elisabeth.engel?ref=elisabeth.engel&share=ee53d51a914b4951ae5c94ece97642fc) by Elisabeth Engel
+
+- [Awesome micro frontends](https://github.com/rajasegar/awesome-micro-frontends)
+
+## :construction_worker: Proof of concepts
+
+- [angular-react-microfrontend](https://github.com/billyjov/angular-react-microfrontend): _Angular_ +  _React_ + _NodeJS_ + _MySQL_
+
+
 
 
