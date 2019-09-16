@@ -5,6 +5,8 @@
 
 **2019**
 
+- [Modern Web Engineering & Micro Frontends](https://www.ivaylopavlov.com/modern-web-engineering-micro-frontends/#.XX903SgzZPZ) by  Ivaylo Pavlov
+
 - [It's About Cutting Your Domain, Not (First And Foremost) About Micro Frontends!](https://www.softwarearchitekt.at/post/2019/07/11/it-s-about-cutting-your-domain-not-first-and-foremost-about-micro-frontends.aspx) by Manfred Steyer([@ManfredSteyer](https://twitter.com/ManfredSteyer))
 
 - [I don’t understand micro-frontends](https://medium.com/@lucamezzalira/i-dont-understand-micro-frontends-88f7304799a9)
