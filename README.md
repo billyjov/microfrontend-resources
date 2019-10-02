@@ -96,6 +96,7 @@
 
 ## :books: Books
 
+- [𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗠𝗶𝗰𝗿𝗼-𝗳𝗿𝗼𝗻𝘁𝗲𝗻𝗱𝘀](https://twitter.com/lucamezzalira/status/1144300280676343808) by Luca Mezzalira (_Comming soon_)
 - [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action) by Michael Geers **07.2019** (_Work in progress_)
 - [Micro Frontends Architecture: Introduction, Design, Techniques & Technology](https://www.amazon.de/Micro-Frontends-Architecture-Introduction-Techniques/dp/1097927989/) by Ajay Kumar **05.2019**
 
