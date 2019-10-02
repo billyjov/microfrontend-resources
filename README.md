@@ -5,6 +5,8 @@
 
 **2019**
 
+- [React Microfrontends and Monorepos: A Perfect Match](https://blog.nrwl.io/monorepos-and-react-microfrontends-a-perfect-match-d49dca64489a) by Jason Jean
+
 - [Modern Web Engineering & Micro Frontends](https://www.ivaylopavlov.com/modern-web-engineering-micro-frontends/#.XX903SgzZPZ) by  Ivaylo Pavlov
 
 - [It's About Cutting Your Domain, Not (First And Foremost) About Micro Frontends!](https://www.softwarearchitekt.at/post/2019/07/11/it-s-about-cutting-your-domain-not-first-and-foremost-about-micro-frontends.aspx) by Manfred Steyer([@ManfredSteyer](https://twitter.com/ManfredSteyer))
