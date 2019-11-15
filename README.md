@@ -73,6 +73,8 @@
 
 ## :video_camera: Talks
 
+- [Micro frontends: extending service-oriented architecture to frontend development](https://www.youtube.com/watch?v=Il9O2vchlRg) by Jakub Sowiński
+
 - [Web Components & Micro Apps: Angular, React & Vue peacefully united?](https://www.youtube.com/watch?v=1KJQurclLdw)
 
 - [Micro-frontend: microservice architecture from your web apps](http://slides.com/willmendesneto/micro-frontend-a-microservice-architecture-from-your-frontend-web-apps#/)
