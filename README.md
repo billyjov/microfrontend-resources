@@ -5,6 +5,8 @@
 
 **2019**
 
+- [Micro Frontend Architecture: Replacing a monolith from the inside out](https://dev.to/scriptedalchemy/micro-frontend-architecture-replacing-a-monolith-from-the-inside-out-3ali) 
+
 - [The Strengths and Benefits of Micro Frontends](https://www.toptal.com/front-end/micro-frontends-strengths-benefits) by Bob Myers
 
 - [React Microfrontends and Monorepos: A Perfect Match](https://blog.nrwl.io/monorepos-and-react-microfrontends-a-perfect-match-d49dca64489a) by Jason Jean
