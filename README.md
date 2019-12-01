@@ -5,6 +5,10 @@
 
 **2019**
 
+- [Micro-frontend Architecture: Dynamic import chunks from another Webpack bundle at runtime. Interleaved Applications](https://itnext.io/micro-frontend-architecture-dynamic-import-chunks-from-another-webpack-bundle-at-runtime-1132d8cb6051) by  Zack Jackson
+
+- [Microfrontends: The Benefits of Microservices for Client-Side Development](https://thenewstack.io/microfrontends-the-benefits-of-microservices-for-client-side-development/)
+
 - [Micro Frontend Architecture: Replacing a monolith from the inside out](https://dev.to/scriptedalchemy/micro-frontend-architecture-replacing-a-monolith-from-the-inside-out-3ali) 
 
 - [The Strengths and Benefits of Micro Frontends](https://www.toptal.com/front-end/micro-frontends-strengths-benefits) by Bob Myers
