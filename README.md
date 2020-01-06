@@ -5,6 +5,8 @@
 
 **2019**
 
+- [Micro-frontends decisions framework](https://medium.com/@lucamezzalira/micro-frontends-decisions-framework-ebcd22256513) by Luca Mezzalira
+
 - [Micro-Frontend Architecture Patterns - Part 2: Backends for Frontends - A tailored approach for performant Micro Frontends.](https://www.squer.at/blog/micro-frontend-patterns) by David Leitner 
 
 - [Micro-Frontend Architecture Patterns - Part 1: Micro Frontends - A gentle Introduction.](https://www.squer.at/blog/micro-frontend-patterns) by David Leitner 
