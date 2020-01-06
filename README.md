@@ -5,6 +5,10 @@
 
 **2019**
 
+- [Micro-Frontend Architecture Patterns - Part 2: Backends for Frontends - A tailored approach for performant Micro Frontends.](https://www.squer.at/blog/micro-frontend-patterns) by David Leitner 
+
+- [Micro-Frontend Architecture Patterns - Part 1: Micro Frontends - A gentle Introduction.](https://www.squer.at/blog/micro-frontend-patterns) by David Leitner 
+
 - [Micro-frontend Architecture: Dynamic import chunks from another Webpack bundle at runtime. Interleaved Applications](https://itnext.io/micro-frontend-architecture-dynamic-import-chunks-from-another-webpack-bundle-at-runtime-1132d8cb6051) by  Zack Jackson
 
 - [Microfrontends: The Benefits of Microservices for Client-Side Development](https://thenewstack.io/microfrontends-the-benefits-of-microservices-for-client-side-development/)
