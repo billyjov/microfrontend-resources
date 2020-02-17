@@ -3,6 +3,12 @@
 
 ## :memo: Blog Posts
 
+**2020**
+
+- [Story behind Micro Frontends in Sabre](https://medium.com/@elastofragmentoplast/story-behind-micro-frontends-in-sabre-9c776861433d) by Kamil Thomas
+
+- [Thoughts About Micro-Frontends in 2020](https://medium.com/better-programming/thoughts-about-micro-frontends-in-2020-dd95eb7216f) by JS Dev Ray
+
 **2019**
 
 - [Micro-frontends decisions framework](https://medium.com/@lucamezzalira/micro-frontends-decisions-framework-ebcd22256513) by Luca Mezzalira
@@ -83,6 +89,10 @@
 
 ## :video_camera: Talks
 
+- [Micro Frontend Architecture Building an Extensible UI Platform](https://www.youtube.com/watch?v=9Xo-rGUq-6E) by Erik Grijzen
+
+- [Patterns for micro frontends](https://www.youtube.com/watch?v=A3n1n5QRmF0) by Erik Dörnenburg
+
 - [Micro frontends: extending service-oriented architecture to frontend development](https://www.youtube.com/watch?v=Il9O2vchlRg) by Jakub Sowiński
 
 - [Web Components & Micro Apps: Angular, React & Vue peacefully united?](https://www.youtube.com/watch?v=1KJQurclLdw)
@@ -130,6 +140,12 @@
 - [Micro frontend application](https://stackoverflow.com/q/51297086/)
 
 - [Micro frontend architecture advice](https://stackoverflow.com/q/47922293/)
+
+## :rocket: Twitter 
+
+### Threads
+
+- [I don't understand micro frontend](https://twitter.com/dan_abramov/status/1132493678730252288) by Dan Abramov
 
 ## :bookmark: Other lists
 
