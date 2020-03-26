@@ -5,6 +5,10 @@
 
 **2020**
 
+- [Introduction to Micro-Frontend Architecture](https://dzone.com/articles/introduction-to-micro-frontends-architecture) by Mayur Ingle
+
+- [Time for the microservice revolution on frontend?](https://tsh.io/state-of-microservices/#micro-frontends) by Luca Mezzalira
+
 - [Story behind Micro Frontends in Sabre](https://medium.com/@elastofragmentoplast/story-behind-micro-frontends-in-sabre-9c776861433d) by Kamil Thomas
 
 - [Thoughts About Micro-Frontends in 2020](https://medium.com/better-programming/thoughts-about-micro-frontends-in-2020-dd95eb7216f) by JS Dev Ray
@@ -123,8 +127,11 @@
 ## :books: Books
 
 - [Enterprise Angular - DDD, Nx Monorepos and Micro Frontends](https://leanpub.com/enterprise-angular) by Manfred Steyer
-- [Building Micro-frontends](https://twitter.com/lucamezzalira/status/1144300280676343808) by Luca Mezzalira (_Comming soon_)
+
+- [Building Micro-frontends](https://www.buildingmicrofrontends.com/) by Luca Mezzalira
+
 - [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action) by Michael Geers **07.2019** (_Work in progress_)
+
 - [Micro Frontends Architecture: Introduction, Design, Techniques & Technology](https://www.amazon.de/Micro-Frontends-Architecture-Introduction-Techniques/dp/1097927989/) by Ajay Kumar **05.2019**
 
 
