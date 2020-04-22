@@ -4,6 +4,7 @@
 ## :memo: Blog Posts
 
 **2020**
+- [Building Micro-Frontends With Single-spa, React, and Vue](https://dzone.com/articles/building-micro-frontends-with-single-spa-and-react) by Mayur Ingle
 
 - [Introduction to Micro-Frontend Architecture](https://dzone.com/articles/introduction-to-micro-frontends-architecture) by Mayur Ingle
 
