@@ -4,6 +4,9 @@
 ## :memo: Blog Posts
 
 **2020**
+
+- [The Microfrontend Revolution: Module Federation in Webpack 5](https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-module-federation-in-webpack-5/) by Manfred Steyer
+
 - [Building Micro-Frontends With Single-spa, React, and Vue](https://dzone.com/articles/building-micro-frontends-with-single-spa-and-react) by Mayur Ingle
 
 - [Introduction to Micro-Frontend Architecture](https://dzone.com/articles/introduction-to-micro-frontends-architecture) by Mayur Ingle
@@ -131,7 +134,7 @@
 
 - [Building Micro-frontends](https://www.buildingmicrofrontends.com/) by Luca Mezzalira
 
-- [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action) by Michael Geers **07.2019** (_Work in progress_)
+- [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action) by Michael Geers **07.2019**
 
 - [Micro Frontends Architecture: Introduction, Design, Techniques & Technology](https://www.amazon.de/Micro-Frontends-Architecture-Introduction-Techniques/dp/1097927989/) by Ajay Kumar **05.2019**
 
