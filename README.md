@@ -5,6 +5,8 @@
 
 **2020**
 
+- [“Module Federation Light”: Using Microfrontends With Angular Already Today](https://www.angulararchitects.io/aktuelles/module-federation-light-using-microfrontends-with-angular-already-today) by Manfred Steyer
+
 - [The Microfrontend Revolution: Module Federation in Webpack 5](https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-module-federation-in-webpack-5/) by Manfred Steyer
 
 - [Building Micro-Frontends With Single-spa, React, and Vue](https://dzone.com/articles/building-micro-frontends-with-single-spa-and-react) by Mayur Ingle
