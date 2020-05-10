@@ -9,6 +9,8 @@
 
 - [The Microfrontend Revolution: Module Federation in Webpack 5](https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-module-federation-in-webpack-5/) by Manfred Steyer
 
+- [Webpack 5 Module Federation: A game-changer in JavaScript architecture](https://medium.com/swlh/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669) by Zack Jackson
+
 - [Building Micro-Frontends With Single-spa, React, and Vue](https://dzone.com/articles/building-micro-frontends-with-single-spa-and-react) by Mayur Ingle
 
 - [Introduction to Micro-Frontend Architecture](https://dzone.com/articles/introduction-to-micro-frontends-architecture) by Mayur Ingle
@@ -140,6 +142,23 @@
 
 - [Micro Frontends Architecture: Introduction, Design, Techniques & Technology](https://www.amazon.de/Micro-Frontends-Architecture-Introduction-Techniques/dp/1097927989/) by Ajay Kumar **05.2019**
 
+
+## :package: Frameworks and Libraries 
+
+- [Qiankun: Blazing fast, simple and completed solution for micro frontends](https://github.com/umijs/qiankun)
+- [Single SPA: a javascript framework for front-end microservices](https://single-spa.js.org/)
+- [Ara Framework: Build Micro-frontends easily using Airbnb Hypernova](https://ara-framework.github.io/website/)
+- [Icestark:  Micro Frontends solution for large application](https://github.com/ice-lab/icestark)
+- [Puzzle JS: Micro frontend framework for scalable and blazing fast websites](https://github.com/puzzle-js/puzzle-js)
+- [One App: a fresh, modular take on web application development](https://github.com/americanexpress/one-app)
+- [OpenComponents: Painless micro frontends delivery](https://opencomponents.github.io/)
+- [Misk-Web: a new micro-frontends Typescript + React web framework from Cash App](https://cashapp.github.io/misk-web/)
+- [Nut JS: a framework born for micro frontends](https://nut.js.org)
+- [Cellular JS: A Javascript framework implementation of "UI Focused State Oriented Architecture" grounded by MVP (Model View Presenter), with micro-frontends support](https://github.com/afsec/cellular-js)
+- [Luigi: Micro frontend framework](https://github.com/SAP/luigi)
+- [Microfronts: Polyglot Front-End Solution for running multiple frameworks as one](https://github.com/eavichay/microfronts)
+- [Ngx Planet: A powerful, reliable, fully-featured and production ready Micro Frontend library for Angular.](https://github.com/worktile/ngx-planet)
+- [Mooa: A independent-deployment micro-frontend Framework for Angular from single-spa.](https://github.com/phodal/mooa)
 
 
 ## :pencil: Papers
