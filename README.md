@@ -159,6 +159,7 @@
 ### Threads
 
 - [I don't understand micro frontend](https://twitter.com/dan_abramov/status/1132493678730252288) by Dan Abramov
+- [Micro frontends and monorepo](https://twitter.com/victorsavkin/status/1259580635536072704) by Victor Savkin
 
 ## :bookmark: Other lists
 
