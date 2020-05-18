@@ -84,6 +84,8 @@
 
 - [UI in Microservices World – Micro Frontends pattern and Web Components](https://altkomsoftware.pl/en/blog/ui-in-microservices-world/)
 
+- [Modernizing Upwork with Micro Frontends](https://www.upwork.com/blog/2017/05/modernizing-upwork-micro-frontends/)
+
 - [Front-End Micro Services: Fragments: limitations, solutions and our approach](https://jobs.zalando.com/tech/blog/front-end-micro-services/?gh_src=aov6nu1)
 
 - [**DE-de**] [Micro-Frontends - Die bessere Art User Interfaces zu implementieren?](https://www.it-economics.de/blog/2017-11/micro-frontends-die-bessere-art-user-interfaces-zu-implementieren)
