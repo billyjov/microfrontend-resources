@@ -5,7 +5,7 @@
 
 **2020**
 
-- [Dynamic Module Federation with Angular - Loading microfrontends not known at compile time.](https://www.angulararchitects.io/aktuelles/dynamic-module-federation-with-angular/)
+- [Dynamic Module Federation with Angular - Loading microfrontends not known at compile time.](https://www.angulararchitects.io/aktuelles/dynamic-module-federation-with-angular/) by Manfred Steyer
 
 - [“Module Federation Light”: Using Microfrontends With Angular Already Today](https://www.angulararchitects.io/aktuelles/module-federation-light-using-microfrontends-with-angular-already-today) by Manfred Steyer
 
