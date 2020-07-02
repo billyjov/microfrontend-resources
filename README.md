@@ -5,6 +5,8 @@
 
 **2020**
 
+- [Dynamic Module Federation with Angular - Loading microfrontends not known at compile time.](https://www.angulararchitects.io/aktuelles/dynamic-module-federation-with-angular/)
+
 - [“Module Federation Light”: Using Microfrontends With Angular Already Today](https://www.angulararchitects.io/aktuelles/module-federation-light-using-microfrontends-with-angular-already-today) by Manfred Steyer
 
 - [The Microfrontend Revolution: Module Federation in Webpack 5](https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-module-federation-in-webpack-5/) by Manfred Steyer
@@ -102,6 +104,10 @@
 
 
 ## :video_camera: Talks
+
+- [The Microfrontend Revolution Module Federation with Angular ](https://speakerdeck.com/manfredsteyer/the-microfrontend-revolution-module-federation-with-angular-at-angularair) by Manfred Steyer
+
+- [6 Things You Should Know About MicroFrontends](https://speakerdeck.com/manfredsteyer/6-things-you-should-know-about-microfrontends-at-ngcopenhagen-juni-2020) by Manfred Steyer
 
 - [Micro Frontend Architecture Building an Extensible UI Platform](https://www.youtube.com/watch?v=9Xo-rGUq-6E) by Erik Grijzen
 
