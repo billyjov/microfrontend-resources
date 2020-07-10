@@ -5,6 +5,8 @@
 
 **2020**
 
+- [Microservices frontend: module federation, an handsome promise](https://medium.com/cdiscount-engineering/microservices-frontend-module-federation-an-handsome-promise-3b309944c215) by Julien Froidefond
+
 - [Dynamic Module Federation with Angular - Loading microfrontends not known at compile time.](https://www.angulararchitects.io/aktuelles/dynamic-module-federation-with-angular/) by Manfred Steyer
 
 - [“Module Federation Light”: Using Microfrontends With Angular Already Today](https://www.angulararchitects.io/aktuelles/module-federation-light-using-microfrontends-with-angular-already-today) by Manfred Steyer
