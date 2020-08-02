@@ -169,6 +169,7 @@
 - [Microfronts: Polyglot Front-End Solution for running multiple frameworks as one](https://github.com/eavichay/microfronts)
 - [Ngx Planet: A powerful, reliable, fully-featured and production ready Micro Frontend library for Angular.](https://github.com/worktile/ngx-planet)
 - [Mooa: A independent-deployment micro-frontend Framework for Angular from single-spa.](https://github.com/phodal/mooa)
+- [Scalecube-js: Toolkit for working in microservices/micro-frontends architecture](https://github.com/scalecube/scalecube-js)
 
 
 ## :pencil: Papers
