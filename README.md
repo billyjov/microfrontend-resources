@@ -5,6 +5,8 @@
 
 **2020**
 
+- [Building Micro Frontend with SSR — Routing](https://levelup.gitconnected.com/building-micro-frontend-with-ssr-part-2-routing-d86480de8894) by Vlad Fedosov
+
 - [Microfrontends: Escaping Version Hell with Module Federation](https://www.angulararchitects.io/aktuelles/getting-out-of-version-mismatch-hell-with-micro-frontends-based-upon-webpack-module-federation/) by Manfred Steyer
 
 - [Microservices frontend: module federation, an handsome promise](https://medium.com/cdiscount-engineering/microservices-frontend-module-federation-an-handsome-promise-3b309944c215) by Julien Froidefond
