@@ -5,6 +5,8 @@
 
 **2020**
 
+- [Lessons from DAZN: Scaling Your Project with Micro-Frontends](https://www.infoq.com/presentations/dazn-microfrontend/)
+
 - [How We Build Micro Frontends](https://blog.bitsrc.io/how-we-build-micro-front-ends-d3eeeac0acfc) by Jonathan Saring
 
 - [Building Micro Frontend with SSR — Routing](https://levelup.gitconnected.com/building-micro-frontend-with-ssr-part-2-routing-d86480de8894) by Vlad Fedosov
