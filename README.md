@@ -5,6 +5,8 @@
 
 **2020**
 
+- [The Story of Micro Frontends](https://medium.com/@infoxicator/the-story-of-micro-frontends-e6cfa5752939) by Ruben Casas
+
 - [Lessons from DAZN: Scaling Your Project with Micro-Frontends](https://www.infoq.com/presentations/dazn-microfrontend/)
 
 - [How We Build Micro Frontends](https://blog.bitsrc.io/how-we-build-micro-front-ends-d3eeeac0acfc) by Jonathan Saring
