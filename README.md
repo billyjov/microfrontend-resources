@@ -184,6 +184,9 @@
 
 ## :pencil: Papers
 
+- [Plutt: A tool for creating type-safe
+and version-safe microfrontends](http://www.diva-portal.org/smash/get/diva2:1463748/FULLTEXT01.pdf) by Julius Celik
+
 ## :grey_question: Stackoverflow topics
 
 - [VueJs Micro-frontend approach](https://stackoverflow.com/q/49196653/)
