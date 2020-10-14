@@ -5,6 +5,8 @@
 
 **2020**
 
+- [The Microfrontend Revolution – Part 2: Module Federation with Angular](https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/) by Manfred Steyer
+
 - [The Story of Micro Frontends](https://medium.com/@infoxicator/the-story-of-micro-frontends-e6cfa5752939) by Ruben Casas
 
 - [Lessons from DAZN: Scaling Your Project with Micro-Frontends](https://www.infoq.com/presentations/dazn-microfrontend/)
@@ -213,6 +215,7 @@ and version-safe microfrontends](http://www.diva-portal.org/smash/get/diva2:1463
 
 ## :construction_worker: Proof of concepts
 
+- [Implementation examples of module federation , by the creators of module federation](https://github.com/module-federation/module-federation-examples)
 - [angular-react-microfrontend](https://github.com/billyjov/angular-react-microfrontend): _Angular_ +  _React_ + _NodeJS_ + _MySQL_
 
 
