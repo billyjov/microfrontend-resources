@@ -5,6 +5,8 @@
 
 **2020**
 
+- [Webpack 5 and Module Federation - A Microfrontend Revolution](https://dev.to/marais/webpack-5-and-module-federation-4j1i) by Marais Rossouw
+
 - [The Microfrontend Revolution – Part 2: Module Federation with Angular](https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/) by Manfred Steyer
 
 - [The Story of Micro Frontends](https://medium.com/@infoxicator/the-story-of-micro-frontends-e6cfa5752939) by Ruben Casas
@@ -25,7 +27,10 @@
 
 - [The Microfrontend Revolution: Module Federation in Webpack 5](https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-module-federation-in-webpack-5/) by Manfred Steyer
 
-- [Webpack 5 Module Federation: A game-changer in JavaScript architecture](https://medium.com/swlh/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669) by Zack Jackson
+- [Webpack 5 Module Federation: A game-changer in JavaScript architecture (Medium)](https://medium.com/swlh/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669) by Zack Jackson
+
+- [Webpack 5 Module Federation: A game-changer in JavaScript architecture (IndepthDev)](https://indepth.dev/webpack-5-module-federation-a-game-changer-in-javascript-architecture/) by Zack Jackson
+
 
 - [Building Micro-Frontends With Single-spa, React, and Vue](https://dzone.com/articles/building-micro-frontends-with-single-spa-and-react) by Mayur Ingle
 
@@ -169,6 +174,7 @@
 
 ## :package: Frameworks and Libraries 
 
+- [Webpack 5 Module Federation: start treating your component libraries as independently deployed services](https://module-federation.github.io/)
 - [Qiankun: Blazing fast, simple and completed solution for micro frontends](https://github.com/umijs/qiankun)
 - [Single SPA: a javascript framework for front-end microservices](https://single-spa.js.org/)
 - [Ara Framework: Build Micro-frontends easily using Airbnb Hypernova](https://ara-framework.github.io/website/)
