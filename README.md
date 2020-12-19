@@ -5,6 +5,8 @@
 
 **2020**
 
+- [Micro frontends: my lessons learned](https://dev.to/this-is-learning/micro-frontends-my-lessons-learned-1pcp) by Natalia Venditto
+
 - [Webpack 5 and Module Federation - A Microfrontend Revolution](https://dev.to/marais/webpack-5-and-module-federation-4j1i) by Marais Rossouw
 
 - [The Microfrontend Revolution – Part 2: Module Federation with Angular](https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/) by Manfred Steyer
