@@ -5,6 +5,7 @@
 ## Contents
 
 - :memo: [Blog Posts](#blog-posts)
+- :video_camera: Talks[Talks](#talks)
 - :books: [Books](#books)
 - :package: [Frameworks and Libraries](#frameworks-and-libraries)
 - 📹[Courses](#courses)
@@ -137,7 +138,11 @@
 - [**DE-de**] [Vorteile von Micro frontend Architecturen für Enterprise Application ](https://www.dronahq.com/enterprise-gains-micro-frontend/)
 
 
-## :video_camera: Talks
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
+## Talks
 
 - [The Microfrontend Revolution Module Federation with Angular ](https://speakerdeck.com/manfredsteyer/the-microfrontend-revolution-module-federation-with-angular-at-angularair) by Manfred Steyer
 
@@ -173,6 +178,9 @@
 
 - [**DE-de**] [Micro Frontend im Rewe Shop Evolution eines Headers](https://speakerdeck.com/drunknzombiecow/micro-frontends-im-rewe-shop-evolution-eines-headers-1?slide=8)
 
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## Books 
 
@@ -186,6 +194,9 @@
 
 - [Micro Frontends Architecture: Introduction, Design, Techniques & Technology](https://www.amazon.de/Micro-Frontends-Architecture-Introduction-Techniques/dp/1097927989/) by Ajay Kumar **05.2019**
 
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## Frameworks and Libraries 
 
@@ -207,15 +218,27 @@
 - [Scalecube-js: Toolkit for working in microservices/micro-frontends architecture](https://github.com/scalecube/scalecube-js)
 - [RollCake SPA: RollCakeSpa.js is a progressive, incrementally-adoptable JavaScript framework for building micro-frontends UI on the web.](https://github.com/rollcakejs/rollcake-spa)
 
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
 ## Courses
 
 - [Module Federation video tutorials](https://www.youtube.com/playlist?list=PLNqp92_EXZBLr7p7hn6IYa1YPNs4yJ1t1)
 - [Micro Frontends and single-spa video tutorials](https://www.youtube.com/playlist?list=PLLUD8RtHvsAOhtHnyGx57EYXoaNsxGrTU)
 
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
 ## Papers
 
 - [Plutt: A tool for creating type-safe
 and version-safe microfrontends](http://www.diva-portal.org/smash/get/diva2:1463748/FULLTEXT01.pdf) by Julius Celik
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## Stackoverflow topics
 
@@ -227,17 +250,29 @@ and version-safe microfrontends](http://www.diva-portal.org/smash/get/diva2:1463
 
 - [Micro frontend architecture advice](https://stackoverflow.com/q/47922293/)
 
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
 ## Twitter threads
 
 - [ Micro Frontend can be managed with inside multiple repos or with monorepos](https://twitter.com/ManfredSteyer/status/1290629421016195077) by Manfred Steyer  
 - [I don't understand micro frontend](https://twitter.com/dan_abramov/status/1132493678730252288) by Dan Abramov
 - [Micro frontends and monorepo](https://twitter.com/victorsavkin/status/1259580635536072704) by Victor Savkin
 
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
 ## Other lists
 
 - [List of lots of ressources about micro frontend](https://micro-frontends.zeef.com/elisabeth.engel?ref=elisabeth.engel&share=ee53d51a914b4951ae5c94ece97642fc) by Elisabeth Engel
 
 - [Awesome micro frontends](https://github.com/rajasegar/awesome-micro-frontends)
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## Proof of concepts
 
@@ -246,7 +281,5 @@ and version-safe microfrontends](http://www.diva-portal.org/smash/get/diva2:1463
 - [Nx micro frontend example](https://github.com/nrwl/nx-examples)
 
 - [angular-react-microfrontend](https://github.com/billyjov/angular-react-microfrontend): _Angular_ +  _React_ + _NodeJS_ + _MySQL_
-
-
 
 
