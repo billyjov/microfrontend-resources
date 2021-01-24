@@ -1,7 +1,20 @@
 # :art: Micro frontend resources
-:fire: A curated list of resources about  Micro frontends grouped by types
 
-## :memo: Blog Posts
+:fire: A curated list of resources about  Micro frontends grouped by types. If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
+
+## Contents
+
+- :memo: [Blog Posts](#blog-posts)
+- :books: [Books](#books)
+- :package: [Frameworks and Libraries](#frameworks-and-libraries)
+- 📹[Courses](#courses)
+- :pencil: [Papers](papers) 
+- :grey_question: [Stackoverflow topics](#stackoverflow-topics)
+- :rocket: [Twitter threads](#twitter-threads)
+- :bookmark: [Other lists](#other-lists)
+- :construction_worker: [Proof of concepts](#proof-of-concepts)
+
+## Blog Posts
 
 **2020**
 
@@ -161,7 +174,7 @@
 - [**DE-de**] [Micro Frontend im Rewe Shop Evolution eines Headers](https://speakerdeck.com/drunknzombiecow/micro-frontends-im-rewe-shop-evolution-eines-headers-1?slide=8)
 
 
-## :books: Books
+## Books 
 
 - [Practical Module Federation](https://module-federation.myshopify.com/products/practical-module-federation) by Zack Jackson & Jack Herrington
 
@@ -174,7 +187,7 @@
 - [Micro Frontends Architecture: Introduction, Design, Techniques & Technology](https://www.amazon.de/Micro-Frontends-Architecture-Introduction-Techniques/dp/1097927989/) by Ajay Kumar **05.2019**
 
 
-## :package: Frameworks and Libraries 
+## Frameworks and Libraries 
 
 - [Webpack 5 Module Federation: start treating your component libraries as independently deployed services](https://module-federation.github.io/)
 - [Qiankun: Blazing fast, simple and completed solution for micro frontends](https://github.com/umijs/qiankun)
@@ -194,12 +207,17 @@
 - [Scalecube-js: Toolkit for working in microservices/micro-frontends architecture](https://github.com/scalecube/scalecube-js)
 - [RollCake SPA: RollCakeSpa.js is a progressive, incrementally-adoptable JavaScript framework for building micro-frontends UI on the web.](https://github.com/rollcakejs/rollcake-spa)
 
-## :pencil: Papers
+## Courses
+
+- [Module Federation video tutorials](https://www.youtube.com/playlist?list=PLNqp92_EXZBLr7p7hn6IYa1YPNs4yJ1t1)
+- [Micro Frontends and single-spa video tutorials](https://www.youtube.com/playlist?list=PLLUD8RtHvsAOhtHnyGx57EYXoaNsxGrTU)
+
+## Papers
 
 - [Plutt: A tool for creating type-safe
 and version-safe microfrontends](http://www.diva-portal.org/smash/get/diva2:1463748/FULLTEXT01.pdf) by Julius Celik
 
-## :grey_question: Stackoverflow topics
+## Stackoverflow topics
 
 - [VueJs Micro-frontend approach](https://stackoverflow.com/q/49196653/)
 
@@ -209,21 +227,19 @@ and version-safe microfrontends](http://www.diva-portal.org/smash/get/diva2:1463
 
 - [Micro frontend architecture advice](https://stackoverflow.com/q/47922293/)
 
-## :rocket: Twitter 
-
-### Threads
+## Twitter threads
 
 - [ Micro Frontend can be managed with inside multiple repos or with monorepos](https://twitter.com/ManfredSteyer/status/1290629421016195077) by Manfred Steyer  
 - [I don't understand micro frontend](https://twitter.com/dan_abramov/status/1132493678730252288) by Dan Abramov
 - [Micro frontends and monorepo](https://twitter.com/victorsavkin/status/1259580635536072704) by Victor Savkin
 
-## :bookmark: Other lists
+## Other lists
 
 - [List of lots of ressources about micro frontend](https://micro-frontends.zeef.com/elisabeth.engel?ref=elisabeth.engel&share=ee53d51a914b4951ae5c94ece97642fc) by Elisabeth Engel
 
 - [Awesome micro frontends](https://github.com/rajasegar/awesome-micro-frontends)
 
-## :construction_worker: Proof of concepts
+## Proof of concepts
 
 - [Implementation examples of module federation , by the creators of module federation](https://github.com/module-federation/module-federation-examples)
 
