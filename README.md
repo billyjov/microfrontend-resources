@@ -5,7 +5,7 @@
 ## Contents
 
 - :memo: [Blog Posts](#blog-posts)
-- :video_camera: Talks[Talks](#talks)
+- :video_camera: [Talks](#talks)
 - :books: [Books](#books)
 - :package: [Frameworks and Libraries](#frameworks-and-libraries)
 - 📹[Courses](#courses)
