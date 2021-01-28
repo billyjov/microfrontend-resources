@@ -233,8 +233,9 @@
 
 ## Papers
 
-- [Plutt: A tool for creating type-safe
-and version-safe microfrontends](http://www.diva-portal.org/smash/get/diva2:1463748/FULLTEXT01.pdf) by Julius Celik
+- [Plutt: A tool for creating type-safe and version-safe microfrontends](http://www.diva-portal.org/smash/get/diva2:1463748/FULLTEXT01.pdf) by Julius Celik
+
+- [Research and Application of Micro Frontends](https://iopscience.iop.org/article/10.1088/1757-899X/490/6/062082/pdf) by  Caifang Yang et al 2019
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
