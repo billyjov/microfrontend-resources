@@ -9,7 +9,7 @@
 - :books: [Books](#books)
 - :package: [Frameworks and Libraries](#frameworks-and-libraries)
 - 📹[Courses](#courses)
-- :pencil: [Papers](papers) 
+- :pencil: [Papers](#papers) 
 - :grey_question: [Stackoverflow topics](#stackoverflow-topics)
 - :rocket: [Twitter threads](#twitter-threads)
 - :bookmark: [Other lists](#other-lists)
