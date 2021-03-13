@@ -17,7 +17,14 @@
 
 ## Blog Posts
 
+**2021**
+
+- [You probably don’t need a micro-frontend](https://blog.scottlogic.com/2021/02/17/probably-dont-need-microfrontends.html) by  Colin Eberhardt
+
 **2020**
+
+- [How to build a micro-frontends architecture, with Angular and Webpack Module Federation](https://medium.com/agorapulse-stories/building-a-micro-frontends-architecture-in-2021-with-angular-and-webpack-module-federation-50d073617645) by Benoit Hediard
+
 
 - [Micro frontends: my lessons learned](https://dev.to/this-is-learning/micro-frontends-my-lessons-learned-1pcp) by Natalia Venditto
 
