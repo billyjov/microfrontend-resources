@@ -19,6 +19,16 @@
 
 **2021**
 
+- [Let's Create A Web Application With Micro Frontends And Firebase](https://dev.to/issamelnass/let-s-create-a-web-application-with-micro-frontends-and-firebase-3b0o) by Issam El Nasiri
+
+- [Micro-frontend Architectures on AWS](https://aws.amazon.com/de/blogs/architecture/micro-frontend-architectures-on-aws/) by Bryant Bost
+
+- [An Introduction to Micro-Frontends in Enterprise Applications (part 1)](https://hackernoon.com/an-introduction-to-micro-frontends-in-enterprise-applications-part-1-uy3333fr) by David Alecrim
+
+- [Micro frontend tutorial: Creating a form with React + Module Federation for Furgonetka.pl](https://tsh.io/blog/micro-frontend-tutorial/) by Robert Goik
+
+- [Micro-Frontends: What, why, and how](https://levelup.gitconnected.com/micro-frontends-what-why-and-how-bf61f1f0a729) by Rany ElHousieny
+
 - [You probably don’t need a micro-frontend](https://blog.scottlogic.com/2021/02/17/probably-dont-need-microfrontends.html) by  Colin Eberhardt
 
 **2020**
