@@ -19,6 +19,8 @@
 
 **2021**
 
+- [Micro Frontend Architecture and Best Practices](https://www.xenonstack.com/insights/micro-frontend-architecture/)
+
 - [Let's Create A Web Application With Micro Frontends And Firebase](https://dev.to/issamelnass/let-s-create-a-web-application-with-micro-frontends-and-firebase-3b0o) by Issam El Nasiri
 
 - [Micro-frontend Architectures on AWS](https://aws.amazon.com/de/blogs/architecture/micro-frontend-architectures-on-aws/) by Bryant Bost
@@ -241,6 +243,7 @@
 
 ## Courses
 
+- [Learn microfrontends with single-spa](https://single-spa-workshop.com/)
 - [Module Federation video tutorials](https://www.youtube.com/playlist?list=PLNqp92_EXZBLr7p7hn6IYa1YPNs4yJ1t1)
 - [Micro Frontends and single-spa video tutorials](https://www.youtube.com/playlist?list=PLLUD8RtHvsAOhtHnyGx57EYXoaNsxGrTU)
 
