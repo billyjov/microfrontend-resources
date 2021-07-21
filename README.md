@@ -19,6 +19,8 @@
 
 **2021**
 
+- [Farewell, AngularJS: A study in UI legacy migrations](https://www.thoughtworks.com/insights/articles/farewell-angularjs)
+
 - [Micro Frontend Architecture and Best Practices](https://www.xenonstack.com/insights/micro-frontend-architecture/)
 
 - [Let's Create A Web Application With Micro Frontends And Firebase](https://dev.to/issamelnass/let-s-create-a-web-application-with-micro-frontends-and-firebase-3b0o) by Issam El Nasiri
