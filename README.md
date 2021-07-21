@@ -205,15 +205,17 @@
 
 ## Books 
 
+- [The Art of Micro Frontends](https://www.packtpub.com/product/the-art-of-micro-frontends/9781800563568) by Florian Rappl
+
 - [Practical Module Federation](https://module-federation.myshopify.com/products/practical-module-federation) by Zack Jackson & Jack Herrington
 
 - [Enterprise Angular - DDD, Nx Monorepos and Micro Frontends](https://leanpub.com/enterprise-angular) by Manfred Steyer
 
 - [Building Micro-frontends](https://www.buildingmicrofrontends.com/) by Luca Mezzalira
 
-- [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action) by Michael Geers **07.2019**
+- [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action) by Michael Geers 
 
-- [Micro Frontends Architecture: Introduction, Design, Techniques & Technology](https://www.amazon.de/Micro-Frontends-Architecture-Introduction-Techniques/dp/1097927989/) by Ajay Kumar **05.2019**
+- [Micro Frontends Architecture: Introduction, Design, Techniques & Technology](https://www.amazon.de/Micro-Frontends-Architecture-Introduction-Techniques/dp/1097927989/) by Ajay Kumar
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
