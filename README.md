@@ -1,6 +1,6 @@
 # :art: Micro frontend resources
 
-:fire: A curated list of resources about  Micro frontends grouped by types. If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
+:fire: A curated list of resources about Micro frontends grouped by types. If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
 ## Contents
 
@@ -9,7 +9,7 @@
 - :books: [Books](#books)
 - :package: [Frameworks and Libraries](#frameworks-and-libraries)
 - 📹[Courses](#courses)
-- :pencil: [Papers](#papers) 
+- :pencil: [Papers](#papers)
 - :grey_question: [Stackoverflow topics](#stackoverflow-topics)
 - :rocket: [Twitter threads](#twitter-threads)
 - :bookmark: [Other lists](#other-lists)
@@ -33,12 +33,11 @@
 
 - [Micro-Frontends: What, why, and how](https://levelup.gitconnected.com/micro-frontends-what-why-and-how-bf61f1f0a729) by Rany ElHousieny
 
-- [You probably don’t need a micro-frontend](https://blog.scottlogic.com/2021/02/17/probably-dont-need-microfrontends.html) by  Colin Eberhardt
+- [You probably don’t need a micro-frontend](https://blog.scottlogic.com/2021/02/17/probably-dont-need-microfrontends.html) by Colin Eberhardt
 
 **2020**
 
 - [How to build a micro-frontends architecture, with Angular and Webpack Module Federation](https://medium.com/agorapulse-stories/building-a-micro-frontends-architecture-in-2021-with-angular-and-webpack-module-federation-50d073617645) by Benoit Hediard
-
 
 - [Micro frontends: my lessons learned](https://dev.to/this-is-learning/micro-frontends-my-lessons-learned-1pcp) by Natalia Venditto
 
@@ -68,7 +67,6 @@
 
 - [Webpack 5 Module Federation: A game-changer in JavaScript architecture (IndepthDev)](https://indepth.dev/webpack-5-module-federation-a-game-changer-in-javascript-architecture/) by Zack Jackson
 
-
 - [Building Micro-Frontends With Single-spa, React, and Vue](https://dzone.com/articles/building-micro-frontends-with-single-spa-and-react) by Mayur Ingle
 
 - [Introduction to Micro-Frontend Architecture](https://dzone.com/articles/introduction-to-micro-frontends-architecture) by Mayur Ingle
@@ -83,21 +81,21 @@
 
 - [Micro-frontends decisions framework](https://medium.com/@lucamezzalira/micro-frontends-decisions-framework-ebcd22256513) by Luca Mezzalira
 
-- [Micro-Frontend Architecture Patterns - Part 2: Backends for Frontends - A tailored approach for performant Micro Frontends.](https://www.squer.at/blog/micro-frontend-patterns) by David Leitner 
+- [Micro-Frontend Architecture Patterns - Part 2: Backends for Frontends - A tailored approach for performant Micro Frontends.](https://www.squer.at/blog/micro-frontend-patterns) by David Leitner
 
-- [Micro-Frontend Architecture Patterns - Part 1: Micro Frontends - A gentle Introduction.](https://www.squer.at/blog/micro-frontend-patterns) by David Leitner 
+- [Micro-Frontend Architecture Patterns - Part 1: Micro Frontends - A gentle Introduction.](https://www.squer.at/blog/micro-frontend-patterns) by David Leitner
 
-- [Micro-frontend Architecture: Dynamic import chunks from another Webpack bundle at runtime. Interleaved Applications](https://itnext.io/micro-frontend-architecture-dynamic-import-chunks-from-another-webpack-bundle-at-runtime-1132d8cb6051) by  Zack Jackson
+- [Micro-frontend Architecture: Dynamic import chunks from another Webpack bundle at runtime. Interleaved Applications](https://itnext.io/micro-frontend-architecture-dynamic-import-chunks-from-another-webpack-bundle-at-runtime-1132d8cb6051) by Zack Jackson
 
 - [Microfrontends: The Benefits of Microservices for Client-Side Development](https://thenewstack.io/microfrontends-the-benefits-of-microservices-for-client-side-development/)
 
-- [Micro Frontend Architecture: Replacing a monolith from the inside out](https://dev.to/scriptedalchemy/micro-frontend-architecture-replacing-a-monolith-from-the-inside-out-3ali) 
+- [Micro Frontend Architecture: Replacing a monolith from the inside out](https://dev.to/scriptedalchemy/micro-frontend-architecture-replacing-a-monolith-from-the-inside-out-3ali)
 
 - [The Strengths and Benefits of Micro Frontends](https://www.toptal.com/front-end/micro-frontends-strengths-benefits) by Bob Myers
 
 - [React Microfrontends and Monorepos: A Perfect Match](https://blog.nrwl.io/monorepos-and-react-microfrontends-a-perfect-match-d49dca64489a) by Jason Jean
 
-- [Modern Web Engineering & Micro Frontends](https://www.ivaylopavlov.com/modern-web-engineering-micro-frontends/#.XX903SgzZPZ) by  Ivaylo Pavlov
+- [Modern Web Engineering & Micro Frontends](https://www.ivaylopavlov.com/modern-web-engineering-micro-frontends/#.XX903SgzZPZ) by Ivaylo Pavlov
 
 - [It's About Cutting Your Domain, Not (First And Foremost) About Micro Frontends!](https://www.softwarearchitekt.at/post/2019/07/11/it-s-about-cutting-your-domain-not-first-and-foremost-about-micro-frontends.aspx) by Manfred Steyer([@ManfredSteyer](https://twitter.com/ManfredSteyer))
 
@@ -111,10 +109,9 @@
 
 - [Slaying the UI AngularJS Monolith Using Micro Frontends Architecture - A Micro Frontend Approach to a Framework Agnostic Modular UI Architecture](https://medium.com/capital-one-tech/slaying-the-ui-angularjs-monolith-using-a-micro-frontend-architecture-f6c6332652d3)
 
-
 **2018 and earlier**
 
-- [Micro Frontends: extending the microservice idea to frontend development](https://micro-frontends.org/)  
+- [Micro Frontends: extending the microservice idea to frontend development](https://micro-frontends.org/)
 
 - [A High-Performmance Solution to Microservice UI Composition](https://www.thoughtworks.com/talks/a-high-performmance-solution-to-microservice-ui-composition)
 
@@ -157,7 +154,6 @@
 - [**DE-de**] [6 MICRO-FRONTEND-ARTEN IM DIREKT-VERGLEICH: DAS SIND DIE VOR- & NACHTEILE](https://blogs.itemis.com/de/6-micro-frontend-arten-im-direkt-vergleich?utm_medium=social&utm_source=linkedin)
 
 - [**DE-de**] [Vorteile von Micro frontend Architecturen für Enterprise Application ](https://www.dronahq.com/enterprise-gains-micro-frontend/)
-
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -203,7 +199,7 @@
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-## Books 
+## Books
 
 - [The Art of Micro Frontends](https://www.packtpub.com/product/the-art-of-micro-frontends/9781800563568) by Florian Rappl
 
@@ -213,7 +209,7 @@
 
 - [Building Micro-frontends](https://www.buildingmicrofrontends.com/) by Luca Mezzalira
 
-- [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action) by Michael Geers 
+- [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action) by Michael Geers
 
 - [Micro Frontends Architecture: Introduction, Design, Techniques & Technology](https://www.amazon.de/Micro-Frontends-Architecture-Introduction-Techniques/dp/1097927989/) by Ajay Kumar
 
@@ -221,13 +217,13 @@
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-## Frameworks and Libraries 
+## Frameworks and Libraries
 
 - [Webpack 5 Module Federation: start treating your component libraries as independently deployed services](https://module-federation.github.io/)
 - [Qiankun: Blazing fast, simple and completed solution for micro frontends](https://github.com/umijs/qiankun)
 - [Single SPA: a javascript framework for front-end microservices](https://single-spa.js.org/)
 - [Ara Framework: Build Micro-frontends easily using Airbnb Hypernova](https://ara-framework.github.io/website/)
-- [Icestark:  Micro Frontends solution for large application](https://github.com/ice-lab/icestark)
+- [Icestark: Micro Frontends solution for large application](https://github.com/ice-lab/icestark)
 - [Puzzle JS: Micro frontend framework for scalable and blazing fast websites](https://github.com/puzzle-js/puzzle-js)
 - [One App: a fresh, modular take on web application development](https://github.com/americanexpress/one-app)
 - [OpenComponents: Painless micro frontends delivery](https://opencomponents.github.io/)
@@ -257,16 +253,33 @@
 
 ## Papers
 
-- [Motivations, Benefits, and Issues for Adopting Micro-Frontends: A Multivocal Literature Review](https://arxiv.org/pdf/2007.00293.pdf) 
-by Severi Peltonen, Luca Mezzalira, Davide Taibi
+- [
+  Design Systems for Micro Frontends-An Investigation into the Development
+  of Framework-Agnostic Design Systems using Svelte and Tailwind CSS](https://epb.bibl.th-koeln.de/frontdoor/deliver/index/docId/1666/file/SCIBachelor_Design_Systems_and_Micro_Frontends.pdf) by Marvin Christian Klimm (2021)
+
+- [Micro frontend architecture for cross framework
+reusability in practice](https://libstore.ugent.be/fulltxt/RUG01/002/946/106/RUG01-002946106_2021_0001_AC.pdf) by Veerle Ongenae et al. (2021)
+
+- [An Exploratory Study of Micro Frontends](https://www.diva-portal.org/smash/get/diva2:1570726/FULLTEXT01.pdf) by Anna Montelius (2021)
+
+- [From Backend to Frontend - Case study on adopting Micro Frontends from a Single Page ERP Application monolith](https://doi.org/10.34726/hss.2021.85306) by Kroiß Manuel (2021)
+
+- [Micro-frontends: application of microservices to web front-ends](http://isyou.info/jisis/vol10/no2/jisis-2020-vol10-no2-04.pdf) by Andrey Pavlenko et al.
+
+- [Motivations, Benefits, and Issues for Adopting Micro-Frontends: A Multivocal Literature Review](https://arxiv.org/pdf/2007.00293.pdf)
+  by Severi Peltonen, Luca Mezzalira, Davide Taibi (2021)
+
+- [A Novel Application of Educational Management Information System based on Micro Frontends](https://www.sciencedirect.com/science/article/pii/S1877050920320688) by Daojiang Wang et al. (2020)
 
 - [Plutt: A tool for creating type-safe and version-safe microfrontends](http://www.diva-portal.org/smash/get/diva2:1463748/FULLTEXT01.pdf) by Julius Celik
 
-- [Research and Application of Micro Frontends](https://iopscience.iop.org/article/10.1088/1757-899X/490/6/062082/pdf) by  Caifang Yang et al (2019)
+- [Research and Application of Micro Frontends](https://iopscience.iop.org/article/10.1088/1757-899X/490/6/062082/pdf) by Caifang Yang et al (2019)
 
 - [**DE-de**] [Microservices Architekturen für Webanwendungen: Micro-Frontends](https://bit.ly/3eHQ0ss) by Billy Lando (2019)
 
 - [**DE-de**] [Machbarkeit und Umsetzung einerMicro-Frontend Architektur mit WebComponents](https://bit.ly/3izRaY7) by Dominic Karnehm (2019)
+
+- [**DE-de**] [Micro-Frontends](<https://eprints.ost.ch/id/eprint/733/1/HS%202018%202019-SA-EP-Baumann-Micro-Frontends%20(Themenbereich%20Microservices%20DevOps).pdf>) by Matthias Baumann (2019)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -288,7 +301,7 @@ by Severi Peltonen, Luca Mezzalira, Davide Taibi
 
 ## Twitter threads
 
-- [ Micro Frontend can be managed with inside multiple repos or with monorepos](https://twitter.com/ManfredSteyer/status/1290629421016195077) by Manfred Steyer  
+- [ Micro Frontend can be managed with inside multiple repos or with monorepos](https://twitter.com/ManfredSteyer/status/1290629421016195077) by Manfred Steyer
 - [I don't understand micro frontend](https://twitter.com/dan_abramov/status/1132493678730252288) by Dan Abramov
 - [Micro frontends and monorepo](https://twitter.com/victorsavkin/status/1259580635536072704) by Victor Savkin
 
@@ -312,6 +325,4 @@ by Severi Peltonen, Luca Mezzalira, Davide Taibi
 
 - [Nx micro frontend example](https://github.com/nrwl/nx-examples)
 
-- [angular-react-microfrontend](https://github.com/billyjov/angular-react-microfrontend): _Angular_ +  _React_ + _NodeJS_ + _MySQL_
-
-
+- [angular-react-microfrontend](https://github.com/billyjov/angular-react-microfrontend): _Angular_ + _React_ + _NodeJS_ + _MySQL_
