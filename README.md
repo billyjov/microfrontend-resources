@@ -201,6 +201,8 @@
 
 ## Books
 
+- [Micro Frontend & Micro Services - Build applications with Micro FE & Services](https://www.google.de/books/edition/Micro_Frontend_Micro_Services/pOvtDwAAQBAJ?hl=de&gbpv=0) by Muralikrishna T
+
 - [The Art of Micro Frontends](https://www.packtpub.com/product/the-art-of-micro-frontends/9781800563568) by Florian Rappl
 
 - [Practical Module Federation](https://module-federation.myshopify.com/products/practical-module-federation) by Zack Jackson & Jack Herrington
