@@ -268,14 +268,14 @@ reusability in practice](https://libstore.ugent.be/fulltxt/RUG01/002/946/106/RUG
 
 - [From Backend to Frontend - Case study on adopting Micro Frontends from a Single Page ERP Application monolith](https://doi.org/10.34726/hss.2021.85306) by Kroiß Manuel (2021)
 
-- [Micro-frontends: application of microservices to web front-ends](http://isyou.info/jisis/vol10/no2/jisis-2020-vol10-no2-04.pdf) by Andrey Pavlenko et al.
-
 - [Motivations, Benefits, and Issues for Adopting Micro-Frontends: A Multivocal Literature Review](https://arxiv.org/pdf/2007.00293.pdf)
   by Severi Peltonen, Luca Mezzalira, Davide Taibi (2021)
 
+- [Micro-frontends: application of microservices to web front-ends](http://isyou.info/jisis/vol10/no2/jisis-2020-vol10-no2-04.pdf) by Andrey Pavlenko et al. (2020)
+
 - [A Novel Application of Educational Management Information System based on Micro Frontends](https://www.sciencedirect.com/science/article/pii/S1877050920320688) by Daojiang Wang et al. (2020)
 
-- [Plutt: A tool for creating type-safe and version-safe microfrontends](http://www.diva-portal.org/smash/get/diva2:1463748/FULLTEXT01.pdf) by Julius Celik
+- [Plutt: A tool for creating type-safe and version-safe microfrontends](http://www.diva-portal.org/smash/get/diva2:1463748/FULLTEXT01.pdf) by Julius Celik (2020)
 
 - [Research and Application of Micro Frontends](https://iopscience.iop.org/article/10.1088/1757-899X/490/6/062082/pdf) by Caifang Yang et al (2019)
 
