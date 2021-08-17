@@ -35,6 +35,8 @@
 
 - [You probably don’t need a micro-frontend](https://blog.scottlogic.com/2021/02/17/probably-dont-need-microfrontends.html) by Colin Eberhardt
 
+- [Serverless Micro-Frontends with the AWS CDK](https://dev.to/fllstck/serverless-micro-frontends-with-the-aws-cdk-3lf) by Fullstack Frontend
+
 **2020**
 
 - [How to build a micro-frontends architecture, with Angular and Webpack Module Federation](https://medium.com/agorapulse-stories/building-a-micro-frontends-architecture-in-2021-with-angular-and-webpack-module-federation-50d073617645) by Benoit Hediard
@@ -76,6 +78,8 @@
 - [Story behind Micro Frontends in Sabre](https://medium.com/@elastofragmentoplast/story-behind-micro-frontends-in-sabre-9c776861433d) by Kamil Thomas
 
 - [Thoughts About Micro-Frontends in 2020](https://medium.com/better-programming/thoughts-about-micro-frontends-in-2020-dd95eb7216f) by JS Dev Ray
+
+- [Let’s Build Micro Frontends with NextJS and Module Federation!](https://medium.com/the-hamato-yogi-chronichels/lets-build-micro-frontends-with-nextjs-and-module-federation-b48c2c916680) by Yoav Ganbar 
 
 **2019**
 
