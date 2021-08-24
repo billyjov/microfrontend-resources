@@ -81,6 +81,8 @@
 
 - [Let’s Build Micro Frontends with NextJS and Module Federation!](https://medium.com/the-hamato-yogi-chronichels/lets-build-micro-frontends-with-nextjs-and-module-federation-b48c2c916680) by Yoav Ganbar 
 
+- [Micro-frontend in smallcase](https://www.smallcase.com/blog/micro-frontend-in-smallcase/) by Shubham Singh
+
 **2019**
 
 - [Micro-frontends decisions framework](https://medium.com/@lucamezzalira/micro-frontends-decisions-framework-ebcd22256513) by Luca Mezzalira
