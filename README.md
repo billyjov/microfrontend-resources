@@ -19,6 +19,8 @@
 
 **2021**
 
+- [Scaling Applications Using Micro-Frontends - A checklist of problems that require solving while starting a microfrontend application](https://prasans.info/scaling-applications-using-microfrontends/) by Prasanna
+
 - [Farewell, AngularJS: A study in UI legacy migrations](https://www.thoughtworks.com/insights/articles/farewell-angularjs)
 
 - [Micro Frontend Architecture and Best Practices](https://www.xenonstack.com/insights/micro-frontend-architecture/)
