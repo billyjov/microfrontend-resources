@@ -246,6 +246,7 @@
 - [Mooa: A independent-deployment micro-frontend Framework for Angular from single-spa.](https://github.com/phodal/mooa)
 - [Scalecube-js: Toolkit for working in microservices/micro-frontends architecture](https://github.com/scalecube/scalecube-js)
 - [RollCake SPA: RollCakeSpa.js is a progressive, incrementally-adoptable JavaScript framework for building micro-frontends UI on the web.](https://github.com/rollcakejs/rollcake-spa)
+- [icestark: A Micro Frontends solution for large application](https://github.com/ice-lab/icestark)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
