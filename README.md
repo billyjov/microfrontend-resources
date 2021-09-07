@@ -19,6 +19,8 @@
 
 **2021**
 
+- [Frontends with Microservices – Why the choice of frontend architecture also impacts team collaboration](https://www.otto.de/jobs/technology/techblog/artikel/frontends-with-microservices.php) by A. Fleischer and H. Schröder
+
 - [Scaling Applications Using Micro-Frontends - A checklist of problems that require solving while starting a microfrontend application](https://prasans.info/scaling-applications-using-microfrontends/) by Prasanna
 
 - [Farewell, AngularJS: A study in UI legacy migrations](https://www.thoughtworks.com/insights/articles/farewell-angularjs)
