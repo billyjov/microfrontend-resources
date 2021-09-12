@@ -19,6 +19,8 @@
 
 **2021**
 
+- [Taking micro-frontends to the next level](https://indepth.dev/posts/1477/taking-micro-frontends-to-the-next-level) by Shahar Talmi
+
 - [Frontends with Microservices – Why the choice of frontend architecture also impacts team collaboration](https://www.otto.de/jobs/technology/techblog/artikel/frontends-with-microservices.php) by A. Fleischer and H. Schröder
 
 - [Scaling Applications Using Micro-Frontends - A checklist of problems that require solving while starting a microfrontend application](https://prasans.info/scaling-applications-using-microfrontends/) by Prasanna
