@@ -211,6 +211,8 @@
 
 ## Books
 
+- [Software Architecture Patterns for Serverless Systems](https://www.packtpub.com/product/software-architecture-patterns-for-serverless-systems/9781800207035) by John Gilbert
+
 - [Micro Frontend & Micro Services - Build applications with Micro FE & Services](https://www.google.de/books/edition/Micro_Frontend_Micro_Services/pOvtDwAAQBAJ?hl=de&gbpv=0) by Muralikrishna T
 
 - [The Art of Micro Frontends](https://www.packtpub.com/product/the-art-of-micro-frontends/9781800563568) by Florian Rappl
