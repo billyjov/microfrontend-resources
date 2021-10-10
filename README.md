@@ -298,7 +298,7 @@ reusability in practice](https://libstore.ugent.be/fulltxt/RUG01/002/946/106/RUG
 
 - [**DE-de**] [Microservices Architekturen für Webanwendungen: Micro-Frontends](https://bit.ly/3eHQ0ss) by Billy Lando (2019)
 
-- [**DE-de**] [Machbarkeit und Umsetzung einerMicro-Frontend Architektur mit WebComponents](https://bit.ly/3izRaY7) by Dominic Karnehm (2019)
+- [**DE-de**] [Machbarkeit und Umsetzung einer Micro-Frontend Architektur mit WebComponents](https://bit.ly/3izRaY7) by Dominic Karnehm (2019)
 
 - [**DE-de**] [Micro-Frontends](<https://eprints.ost.ch/id/eprint/733/1/HS%202018%202019-SA-EP-Baumann-Micro-Frontends%20(Themenbereich%20Microservices%20DevOps).pdf>) by Matthias Baumann (2019)
 
