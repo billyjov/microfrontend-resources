@@ -235,6 +235,7 @@
 
 ## Frameworks and Libraries
 
+- [Feature Hub - Create scalable web applications using micro frontends](https://feature-hub.io/)
 - [Webpack 5 Module Federation: start treating your component libraries as independently deployed services](https://module-federation.github.io/)
 - [Qiankun: Blazing fast, simple and completed solution for micro frontends](https://github.com/umijs/qiankun)
 - [Single SPA: a javascript framework for front-end microservices](https://single-spa.js.org/)
