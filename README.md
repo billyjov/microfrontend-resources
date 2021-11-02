@@ -270,10 +270,11 @@
 
 ## Papers
 
+- [Enterprise-Level Migration to Micro Frontends in a Multi-Vendor Environment](http://acta.uni-obuda.hu/Poloskei_Bub_115.pdf) by I. Pölöskei1 and U. Bub (2021)
+
 - [A Brief Review of Micro-frontends](https://uijrt.com/articles/v2/i8/UIJRTV2I80017.pdf) by Y.R. Prajwal et al. (2021)
 
-- [
-  Design Systems for Micro Frontends-An Investigation into the Development
+- [Design Systems for Micro Frontends-An Investigation into the Development
   of Framework-Agnostic Design Systems using Svelte and Tailwind CSS](https://epb.bibl.th-koeln.de/frontdoor/deliver/index/docId/1666/file/SCIBachelor_Design_Systems_and_Micro_Frontends.pdf) by Marvin Christian Klimm (2021)
 
 - [Micro frontend architecture for cross framework
