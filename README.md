@@ -85,7 +85,7 @@
 
 - [Thoughts About Micro-Frontends in 2020](https://medium.com/better-programming/thoughts-about-micro-frontends-in-2020-dd95eb7216f) by JS Dev Ray
 
-- [Let’s Build Micro Frontends with NextJS and Module Federation!](https://medium.com/the-hamato-yogi-chronichels/lets-build-micro-frontends-with-nextjs-and-module-federation-b48c2c916680) by Yoav Ganbar 
+- [Let’s Build Micro Frontends with NextJS and Module Federation!](https://medium.com/the-hamato-yogi-chronichels/lets-build-micro-frontends-with-nextjs-and-module-federation-b48c2c916680) by Yoav Ganbar
 
 - [Micro-frontend in smallcase](https://www.smallcase.com/blog/micro-frontend-in-smallcase/) by Shubham Singh
 
@@ -270,6 +270,11 @@
 
 ## Papers
 
+- [Design Systems for Micro Frontends -
+  An Investigation into the Development of Framework-Agnostic
+  Design Systems using Svelte and Tailwind CSS
+  ](https://epb.bibl.th-koeln.de/frontdoor/deliver/index/docId/1666/file/SCIBachelor_Design_Systems_and_Micro_Frontends.pdf) by M. C. Klimm (2021)
+
 - [Enterprise-Level Migration to Micro Frontends in a Multi-Vendor Environment](http://acta.uni-obuda.hu/Poloskei_Bub_115.pdf) by I. Pölöskei1 and U. Bub (2021)
 
 - [A Brief Review of Micro-frontends](https://uijrt.com/articles/v2/i8/UIJRTV2I80017.pdf) by Y.R. Prajwal et al. (2021)
@@ -278,7 +283,7 @@
   of Framework-Agnostic Design Systems using Svelte and Tailwind CSS](https://epb.bibl.th-koeln.de/frontdoor/deliver/index/docId/1666/file/SCIBachelor_Design_Systems_and_Micro_Frontends.pdf) by Marvin Christian Klimm (2021)
 
 - [Micro frontend architecture for cross framework
-reusability in practice](https://libstore.ugent.be/fulltxt/RUG01/002/946/106/RUG01-002946106_2021_0001_AC.pdf) by Veerle Ongenae et al. (2021)
+  reusability in practice](https://libstore.ugent.be/fulltxt/RUG01/002/946/106/RUG01-002946106_2021_0001_AC.pdf) by Veerle Ongenae et al. (2021)
 
 - [An Exploratory Study of Micro Frontends](https://www.diva-portal.org/smash/get/diva2:1570726/FULLTEXT01.pdf) by Anna Montelius (2021)
 
@@ -294,6 +299,9 @@ reusability in practice](https://libstore.ugent.be/fulltxt/RUG01/002/946/106/RUG
 - [Plutt: A tool for creating type-safe and version-safe microfrontends](http://www.diva-portal.org/smash/get/diva2:1463748/FULLTEXT01.pdf) by Julius Celik (2020)
 
 - [Towards a Modular Architecture for Industrial HMIs](https://ieeexplore.ieee.org/document/9212011) by M. Shakil and A. Zoitl (2020)
+
+- [Micro frontend architecture for cross framework reusability in practice](https://libstore.ugent.be/fulltxt/RUG01/002/946/106/RUG01-002946106_2021_0001_AC.pdf) by T. De Smet(2020)
+
 
 - [Research and Application of Micro Frontends](https://iopscience.iop.org/article/10.1088/1757-899X/490/6/062082/pdf) by Caifang Yang et al (2019)
 
