@@ -17,6 +17,11 @@
 
 ## Blog Posts
 
+**2022**
+
+- [Integration of dot js Frameworks to Micro Frontend](https://www.xenonstack.com/blog/js-integration-micro-frontend) by Navdeep Singh Gill 
+
+
 **2021**
 
 - [Taking micro-frontends to the next level](https://indepth.dev/posts/1477/taking-micro-frontends-to-the-next-level) by Shahar Talmi
