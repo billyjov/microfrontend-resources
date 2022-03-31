@@ -19,7 +19,11 @@
 
 **2022**
 
+- [The Micro-Frontends future](https://lucamezzalira.com/2022/03/01/the-micro-frontends-future/) by Luca Mezzalira 
+
 - [Integration of dot js Frameworks to Micro Frontend](https://www.xenonstack.com/blog/js-integration-micro-frontend) by Navdeep Singh Gill 
+
+- [The Complete Guide to Micro Frontend with React.js for 2022](https://dev.to/devsmitra/the-complete-guide-to-micro-frontend-with-reactjs-for-2022-36b2) by Rahul Sharma
 
 
 **2021**
