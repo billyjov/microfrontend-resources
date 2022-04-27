@@ -19,6 +19,8 @@
 
 **2022**
 
+- [Multi-Framework and -Version Micro Frontends with Module Federation: Your 4 Steps Guide](https://www.angulararchitects.io/aktuelles/multi-framework-and-version-micro-frontends-with-module-federation-your-4-steps-guide/) by Manfred Steyer
+
 - [The Micro-Frontends future](https://lucamezzalira.com/2022/03/01/the-micro-frontends-future/) by Luca Mezzalira 
 
 - [Integration of dot js Frameworks to Micro Frontend](https://www.xenonstack.com/blog/js-integration-micro-frontend) by Navdeep Singh Gill 
