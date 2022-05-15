@@ -281,6 +281,10 @@
 
 ## Papers
 
+- [**DE-de**] [Extrahieren von Micro-Frontends
+aus einer monolithischen
+Frontend Anwendung](https://www.szi.uni-bremen.de/wp-content/uploads/2022/04/thesis-lando-2022.pdf) by Billy Lando (2022)
+
 - [Design Systems for Micro Frontends -
   An Investigation into the Development of Framework-Agnostic
   Design Systems using Svelte and Tailwind CSS
