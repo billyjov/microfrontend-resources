@@ -224,6 +224,8 @@
 
 ## Books
 
+- [Journey to Micro Frontends](https://leanpub.com/journeytomfe) by Brendon Co
+
 - [Software Architecture Patterns for Serverless Systems](https://www.packtpub.com/product/software-architecture-patterns-for-serverless-systems/9781800207035) by John Gilbert
 
 - [Micro Frontend & Micro Services - Build applications with Micro FE & Services](https://www.google.de/books/edition/Micro_Frontend_Micro_Services/pOvtDwAAQBAJ?hl=de&gbpv=0) by Muralikrishna T
