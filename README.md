@@ -184,6 +184,12 @@
 
 ## Talks
 
+- [Rethinking Auth for SPAs and  Micro Frontends:  Easy and Secure With Gateways](https://speakerdeck.com/manfredsteyer/rethinking-auth-for-spas-and-micro-frontends-easy-and-secure-with-gateways) by Manfred Steyer
+
+- [Beyond Micro Frontends: Frontend Moduliths for the Enterprise](https://speakerdeck.com/manfredsteyer/beyond-micro-frontends-frontend-moduliths-for-the-enterprise-at-enterjs2022) by Manfred Steyer
+
+- [More Than Micro Frontends: 3 Further Use Cases for Module Federation](https://speakerdeck.com/manfredsteyer/more-then-micro-frontends-3-further-use-cases-for-module-federation-at-dwx-2022) by Manfred Steyer
+
 - [The Microfrontend Revolution Module Federation with Angular ](https://speakerdeck.com/manfredsteyer/the-microfrontend-revolution-module-federation-with-angular-at-angularair) by Manfred Steyer
 
 - [6 Things You Should Know About MicroFrontends](https://speakerdeck.com/manfredsteyer/6-things-you-should-know-about-microfrontends-at-ngcopenhagen-juni-2020) by Manfred Steyer
