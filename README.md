@@ -19,6 +19,8 @@
 
 **2022**
 
+- [Microfrontends at TUI](https://web.tui/technology/microfrontends/) by TUI
+
 - [Multi-Framework and -Version Micro Frontends with Module Federation: Your 4 Steps Guide](https://www.angulararchitects.io/aktuelles/multi-framework-and-version-micro-frontends-with-module-federation-your-4-steps-guide/) by Manfred Steyer
 
 - [The Micro-Frontends future](https://lucamezzalira.com/2022/03/01/the-micro-frontends-future/) by Luca Mezzalira 
@@ -254,6 +256,7 @@
 
 ## Frameworks and Libraries
 
+- [TUI Modular Web Architecture](https://web.tui/)
 - [Feature Hub - Create scalable web applications using micro frontends](https://feature-hub.io/)
 - [Webpack 5 Module Federation: start treating your component libraries as independently deployed services](https://module-federation.github.io/)
 - [Qiankun: Blazing fast, simple and completed solution for micro frontends](https://github.com/umijs/qiankun)
