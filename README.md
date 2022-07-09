@@ -58,6 +58,8 @@
 
 **2020**
 
+- [Micro Frontends Pattern Comparison](https://dev.to/florianrappl/micro-frontends-pattern-comparison-1dh0) by Florian Rappl
+
 - [How to build a micro-frontends architecture, with Angular and Webpack Module Federation](https://medium.com/agorapulse-stories/building-a-micro-frontends-architecture-in-2021-with-angular-and-webpack-module-federation-50d073617645) by Benoit Hediard
 
 - [Micro frontends: my lessons learned](https://dev.to/this-is-learning/micro-frontends-my-lessons-learned-1pcp) by Natalia Venditto
@@ -186,6 +188,8 @@
 
 ## Talks
 
+- [Serverless for Frontends](https://www.youtube.com/watch?v=8yI3O8-ej5I) by Florian Rappl
+
 - [Rethinking Auth for SPAs and  Micro Frontends:  Easy and Secure With Gateways](https://speakerdeck.com/manfredsteyer/rethinking-auth-for-spas-and-micro-frontends-easy-and-secure-with-gateways) by Manfred Steyer
 
 - [Beyond Micro Frontends: Frontend Moduliths for the Enterprise](https://speakerdeck.com/manfredsteyer/beyond-micro-frontends-frontend-moduliths-for-the-enterprise-at-enterjs2022) by Manfred Steyer
@@ -256,6 +260,7 @@
 
 ## Frameworks and Libraries
 
+- [Piral](https://piral.io/)
 - [TUI Modular Web Architecture](https://web.tui/)
 - [Feature Hub - Create scalable web applications using micro frontends](https://feature-hub.io/)
 - [Webpack 5 Module Federation: start treating your component libraries as independently deployed services](https://module-federation.github.io/)
