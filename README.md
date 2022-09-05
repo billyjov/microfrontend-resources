@@ -260,7 +260,7 @@
 
 ## Frameworks and Libraries
 
-- [Piral](https://piral.io/)
+- [Piral: Build highly modular applications fully flexible for large scale portal solutions](https://piral.io/)
 - [TUI Modular Web Architecture](https://web.tui/)
 - [Feature Hub - Create scalable web applications using micro frontends](https://feature-hub.io/)
 - [Webpack 5 Module Federation: start treating your component libraries as independently deployed services](https://module-federation.github.io/)
@@ -296,6 +296,10 @@
 </div>
 
 ## Papers
+
+- [The Migration of a Large-Scale Web Application from Monolith to Micro-frontends](https://aaltodoc.aalto.fi/handle/123456789/116357) by Xiao Zifan (2022)
+
+- [Implementing Micro Frontends Using Signal-based Web Components](https://doi.org/10.2197/ipsjjip.30.505) by Yuma Nishizu, Tetsuo Kamina (2022)
 
 - [**DE-de**] [Extrahieren von Micro-Frontends
 aus einer monolithischen
