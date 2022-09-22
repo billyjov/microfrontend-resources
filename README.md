@@ -297,6 +297,8 @@
 
 ## Papers
 
+- [Moderation panel for the virtual event platform as a micro frontend module](https://www.theseus.fi/handle/10024/754390) by Azizyan Samson (2022)
+
 - [The Migration of a Large-Scale Web Application from Monolith to Micro-frontends](https://aaltodoc.aalto.fi/handle/123456789/116357) by Xiao Zifan (2022)
 
 - [Implementing Micro Frontends Using Signal-based Web Components](https://doi.org/10.2197/ipsjjip.30.505) by Yuma Nishizu, Tetsuo Kamina (2022)
