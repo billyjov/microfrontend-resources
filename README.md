@@ -4,6 +4,7 @@
 
 ## Contents
 
+- :atom_symbol: [Websites](#websites)
 - :memo: [Blog Posts](#blog-posts)
 - :video_camera: [Talks](#talks)
 - :books: [Books](#books)
@@ -14,6 +15,11 @@
 - :rocket: [Twitter threads](#twitter-threads)
 - :bookmark: [Other lists](#other-lists)
 - :construction_worker: [Proof of concepts](#proof-of-concepts)
+
+## Websites
+
+- https://microfrontend.dev/
+- https://micro-frontends.org/
 
 ## Blog Posts
 
@@ -137,8 +143,6 @@
 - [Slaying the UI AngularJS Monolith Using Micro Frontends Architecture - A Micro Frontend Approach to a Framework Agnostic Modular UI Architecture](https://medium.com/capital-one-tech/slaying-the-ui-angularjs-monolith-using-a-micro-frontend-architecture-f6c6332652d3)
 
 **2018 and earlier**
-
-- [Micro Frontends: extending the microservice idea to frontend development](https://micro-frontends.org/)
 
 - [A High-Performmance Solution to Microservice UI Composition](https://www.thoughtworks.com/talks/a-high-performmance-solution-to-microservice-ui-composition)
 
