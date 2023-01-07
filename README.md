@@ -20,12 +20,16 @@
 
 - https://microfrontend.dev/
 - https://micro-frontends.org/
+- https://web.tui/technology/microfrontends/
 
 ## Blog Posts
 
-**2022**
+**2023**
 
-- [Microfrontends at TUI](https://web.tui/technology/microfrontends/) by TUI
+- [Module Federation Shared API](https://dev.to/infoxicator/module-federation-shared-api-ach) by Ruben Casas
+
+
+**2022**
 
 - [Multi-Framework and -Version Micro Frontends with Module Federation: Your 4 Steps Guide](https://www.angulararchitects.io/aktuelles/multi-framework-and-version-micro-frontends-with-module-federation-your-4-steps-guide/) by Manfred Steyer
 
