@@ -305,6 +305,8 @@
 
 ## Papers
 
+- [Experiences on a Frameworkless Micro-Frontend Architecture in a Small Organization](https://ieeexplore.ieee.org/abstract/document/10092645) by J. Männistö, Antti-Pekka Tuovinen et al. (2023)
+
 - [Evaluating Micro Frontend Approaches for Code Reusability](https://link.springer.com/chapter/10.1007/978-3-031-22792-9_8) by Emilija Stefanovska & Vladimir Trajkovik (2023)
 
 - [Moderation panel for the virtual event platform as a micro frontend module](https://www.theseus.fi/handle/10024/754390) by Azizyan Samson (2022)
