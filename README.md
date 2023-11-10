@@ -305,6 +305,12 @@
 
 ## Papers
 
+- [Benefits, challenges, and performance analysis of a scalable web architecture based on micro-frontends](https://www.scientificbulletin.upb.ro/rev_docs_arhiva/reze1d_965048.pdf) by A. Petcu at al. (2023)
+
+- [Scaling a Software Platform Using Micro Frontend](https://www.theseus.fi/bitstream/handle/10024/799668/Thesis_final.pdf) by K. Zateishchikov (2023)
+
+- [Managing Micro Frontends Across Multiple Tech Stacks - Sharing, Finding & Publishing](https://fileadmin.cs.lth.se/cs/Personal/Lars_Bendix/Teaching/Lund/Theses/ST23/ST23-report.pdf) by A. Simeunovic & U. Tripunovic (2023)
+
 - [Experiences on a Frameworkless Micro-Frontend Architecture in a Small Organization](https://ieeexplore.ieee.org/abstract/document/10092645) by J. Männistö, Antti-Pekka Tuovinen et al. (2023)
 
 - [Evaluating Micro Frontend Approaches for Code Reusability](https://link.springer.com/chapter/10.1007/978-3-031-22792-9_8) by Emilija Stefanovska & Vladimir Trajkovik (2023)
