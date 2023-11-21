@@ -26,6 +26,7 @@
 
 **2023**
 
+- [Everything You Need to Know About Micro Frontends](https://newsletter.systemdesign.one/p/micro-frontends)
 - [Module Federation Shared API](https://dev.to/infoxicator/module-federation-shared-api-ach) by Ruben Casas
 
 
