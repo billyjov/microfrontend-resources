@@ -308,6 +308,10 @@
 
 - [Suitability of Micro-Frontends for an AI as a Service Platform](http://hdl.handle.net/20.500.12738/14575) by T. Kübra (2024)
 
+- [The Future of Web Development: An In-depth Analysis of Micro-Frontend Approaches](https://www.researchgate.net/publication/376477757_The_Future_of_Web_Development_An_In-depth_Analysis_of_Micro-Frontend_Approaches) by N. Savani (2023)
+
+- [State Management in Micro Frontends: Challenges and Strategies](https://www.researchgate.net/publication/375888229_State_Management_in_Micro_Frontends_Challenges_and_Strategies) by N. Savani (2023)
+
 - [Benefits, challenges, and performance analysis of a scalable web architecture based on micro-frontends](https://www.scientificbulletin.upb.ro/rev_docs_arhiva/reze1d_965048.pdf) by A. Petcu at al. (2023)
 
 - [Scaling a Software Platform Using Micro Frontend](https://www.theseus.fi/bitstream/handle/10024/799668/Thesis_final.pdf) by K. Zateishchikov (2023)
