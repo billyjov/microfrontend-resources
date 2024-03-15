@@ -305,6 +305,8 @@
 
 ## Papers
 
+- [Suitability of Micro-Frontends for an AI as a Service Platform](http://hdl.handle.net/20.500.12738/14575) by T. Kübra (2024)
+
 - [Benefits, challenges, and performance analysis of a scalable web architecture based on micro-frontends](https://www.scientificbulletin.upb.ro/rev_docs_arhiva/reze1d_965048.pdf) by A. Petcu at al. (2023)
 
 - [Scaling a Software Platform Using Micro Frontend](https://www.theseus.fi/bitstream/handle/10024/799668/Thesis_final.pdf) by K. Zateishchikov (2023)
