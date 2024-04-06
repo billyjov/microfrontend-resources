@@ -8,6 +8,7 @@
 - :memo: [Blog Posts](#blog-posts)
 - :video_camera: [Talks](#talks)
 - :books: [Books](#books)
+- :videos: [Videos](#videos)
 - :package: [Frameworks and Libraries](#frameworks-and-libraries)
 - 📹[Courses](#courses)
 - :pencil: [Papers](#papers)
@@ -27,6 +28,7 @@
 **2023**
 
 - [Everything You Need to Know About Micro Frontends](https://newsletter.systemdesign.one/p/micro-frontends) by Neo Kim
+- [Understanding Module Federation: A Deep Dive](https://scriptedalchemy.medium.com/understanding-webpack-module-federation-a-deep-dive-efe5c55bf366) by Zack Jackson
 - [Module Federation Shared API](https://dev.to/infoxicator/module-federation-shared-api-ach) by Ruben Casas
 - [Micro Frontend Architecture: Helping you move from theory to practice with our workshop](https://www.nearform.com/digital-community/micro-frontend-architecture-helping-you-move-from-theory-to-practice-with-our-workshop/) by Mateja Ristic, Ruslan Bredikhin
 - [React Micro Frontends with Module Federation](https://www.nearform.com/insights/react-micro-frontends-module-federation/) by Matteo Pietro Dazzi
@@ -263,6 +265,15 @@
 - [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action) by Michael Geers
 
 - [Micro Frontends Architecture: Introduction, Design, Techniques & Technology](https://www.amazon.de/Micro-Frontends-Architecture-Introduction-Techniques/dp/1097927989/) by Ajay Kumar
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
+## Videos
+
+- [Professional Micro-Frontend Shared State Setup](https://www.youtube.com/watch?v=432thqUKs-Y)
+- [Micro-Frontends Course - Beginner to Expert](https://www.youtube.com/watch?v=lKKsjpH09dU)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
