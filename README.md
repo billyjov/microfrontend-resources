@@ -8,7 +8,7 @@
 - :memo: [Blog Posts](#blog-posts)
 - :video_camera: [Talks](#talks)
 - :books: [Books](#books)
-- :videos: [Videos](#videos)
+- ▶️ [Videos](#videos)
 - :package: [Frameworks and Libraries](#frameworks-and-libraries)
 - 📹[Courses](#courses)
 - :pencil: [Papers](#papers)
