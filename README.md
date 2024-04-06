@@ -404,7 +404,7 @@ Frontend Anwendung](https://www.szi.uni-bremen.de/wp-content/uploads/2022/04/the
 
 ## Other lists
 
-- [List of lots of ressources about micro frontend](https://micro-frontends.zeef.com/elisabeth.engel?ref=elisabeth.engel&share=ee53d51a914b4951ae5c94ece97642fc) by Elisabeth Engel
+- [List of lots of resources about micro frontend](https://micro-frontends.zeef.com/elisabeth.engel?ref=elisabeth.engel&share=ee53d51a914b4951ae5c94ece97642fc) by Elisabeth Engel
 
 - [Awesome micro frontends](https://github.com/rajasegar/awesome-micro-frontends)
 
