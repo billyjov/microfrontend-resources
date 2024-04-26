@@ -8,6 +8,7 @@
 - :memo: [Blog Posts](#blog-posts)
 - :video_camera: [Talks](#talks)
 - :books: [Books](#books)
+- ▶️ [Videos](#videos)
 - :package: [Frameworks and Libraries](#frameworks-and-libraries)
 - 📹[Courses](#courses)
 - :pencil: [Papers](#papers)
@@ -27,8 +28,10 @@
 **2023**
 
 - [Everything You Need to Know About Micro Frontends](https://newsletter.systemdesign.one/p/micro-frontends) by Neo Kim
+- [Understanding Module Federation: A Deep Dive](https://scriptedalchemy.medium.com/understanding-webpack-module-federation-a-deep-dive-efe5c55bf366) by Zack Jackson
 - [Module Federation Shared API](https://dev.to/infoxicator/module-federation-shared-api-ach) by Ruben Casas
-
+- [Micro Frontend Architecture: Helping you move from theory to practice with our workshop](https://www.nearform.com/digital-community/micro-frontend-architecture-helping-you-move-from-theory-to-practice-with-our-workshop/) by Mateja Ristic, Ruslan Bredikhin
+- [React Micro Frontends with Module Federation](https://www.nearform.com/insights/react-micro-frontends-module-federation/) by Matteo Pietro Dazzi
 
 **2022**
 
@@ -267,6 +270,15 @@
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
+## Videos
+
+- [Professional Micro-Frontend Shared State Setup](https://www.youtube.com/watch?v=432thqUKs-Y)
+- [Micro-Frontends Course - Beginner to Expert](https://www.youtube.com/watch?v=lKKsjpH09dU)
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
 ## Frameworks and Libraries
 
 - [Piral: Build highly modular applications fully flexible for large scale portal solutions](https://piral.io/)
@@ -402,8 +414,6 @@ Frontend Anwendung](https://www.szi.uni-bremen.de/wp-content/uploads/2022/04/the
 </div>
 
 ## Other lists
-
-- [List of lots of ressources about micro frontend](https://micro-frontends.zeef.com/elisabeth.engel?ref=elisabeth.engel&share=ee53d51a914b4951ae5c94ece97642fc) by Elisabeth Engel
 
 - [Awesome micro frontends](https://github.com/rajasegar/awesome-micro-frontends)
 
