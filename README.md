@@ -318,6 +318,15 @@
 
 ## Papers
 
+- [Patent on utilizing Micro-frontend style development to build a CRM Application](https://patents.google.com/patent/US20200226615A1/en) by Tanmaya Gaur, Kevin Lau, Valeri Reeves, Shashank ReddyAnugu, Sreenivasulu
+Thimmanapalli, Gregory Wright
+
+- [Applications of Micro-Frontend Application Development in a Customer Support CRM](https://www.ijcttjournal.org/2024/Volume-72%20Issue-6/IJCTT-V72I6P103.pdf) by Tanmaya Gaur (2024)
+
+- [State Management Techniques and Options for Microfrontend Web Development](https://www.internationaljournalssrg.org/IJCSE/2024/Volume11-Issue7/IJCSE-V11I7P102.pdf) by Tanmaya Gaur (2024)
+
+- [Session Management Techniques and Options for Micro-frontend Web Development](https://doi.org/10.14445/23488387/IJCSE-V11I8P103) by Tanmaya Gaur (2024)
+
 - [Suitability of Micro-Frontends for an AI as a Service Platform](http://hdl.handle.net/20.500.12738/14575) by T. Kübra (2024)
 
 - [The Future of Web Development: An In-depth Analysis of Micro-Frontend Approaches](https://www.researchgate.net/publication/376477757_The_Future_of_Web_Development_An_In-depth_Analysis_of_Micro-Frontend_Approaches) by N. Savani (2023)
