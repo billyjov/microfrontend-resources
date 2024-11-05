@@ -25,6 +25,16 @@
 
 ## Blog Posts
 
+**2024**
+
+- [How Micro-Frontends are reshaping Modern Web Architecture](https://lucamezzalira.medium.com/how-micro-frontends-are-reshaping-modern-web-architecture-0259ce7dfb7f) by Luca Mezzalira
+
+- [Micro Frontends: Comparing Leading Frameworks](https://medium.com/outreach-prague/micro-frontends-comparing-leading-frameworks-cb54cd9f7a03) by Oleksandr Ovcharov
+
+- [Enhance your Composable Frontend Architecture with Micro-Frontends](https://mia-platform.eu/blog/composable-frontend/) by Mia-Platform Team
+
+- [Angular micro frontends — a modern approach to complex app development](https://angular.love/angular-micro-frontends-a-modern-approach-to-complex-app-development) by Mateusz Basiński
+
 **2023**
 
 - [Everything You Need to Know About Micro Frontends](https://newsletter.systemdesign.one/p/micro-frontends) by Neo Kim
@@ -272,6 +282,8 @@
 
 ## Videos
 
+- [Micro frotends Conference 2024](https://www.youtube.com/watch?v=LFC6lXgl6rk&list=PLQ9i8GS-LNXk2uLpVXV484lk20FDKpnAX)
+- [Micro frontends Conference 2023](https://www.youtube.com/playlist?list=PLQ9i8GS-LNXkJulBBvezBeOVeRJTF8TjY)
 - [Professional Micro-Frontend Shared State Setup](https://www.youtube.com/watch?v=432thqUKs-Y)
 - [Micro-Frontends Course - Beginner to Expert](https://www.youtube.com/watch?v=lKKsjpH09dU)
 
@@ -317,6 +329,14 @@
 </div>
 
 ## Papers
+
+- [Implementing Digital Twins via micro-frontends, micro-services, and web 3D](https://doi.org/10.1016/j.cag.2024.103946) by B. Simoes et. al. (2024)
+
+- [Micro-Frontends Integration Strategies: Breaking Boundaries](https://www.theseus.fi/handle/10024/855672) by Al-Mashhadani, Omar (2024)
+
+- [Micro Frontend Based Performance Improvement and Prediction for Microservices Using Machine Learning](https://link.springer.com/article/10.1007/s10723-024-09760-8) by N. Kaushik et al. (2024)
+
+- [The advantages of Micro-Frontend architecture for developing web application](https://ieeexplore.ieee.org/abstract/document/10577836) by E. Gashi et al. (2024)
 
 - [Exploring the technologies and architectures used to develop micro-frontend applications: A systematic mapping and emerging perspectives](http://dx.doi.org/10.13140/RG.2.2.21968.52481) by V. Adriano & K. Farias (2024)
 
