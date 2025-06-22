@@ -1,8 +1,8 @@
-cff-version: 0.0.9
+cff-version: 0.0.10
 message: "If you use this resource overview, please cite it as below."
 authors:
   - family-names: Lando
     given-names: Billy
 title: "Micro-Frontends resources"
-version: 0.0.9
-date-released: 2025-02-17
+version: 0.0.10
+date-released: 2025-06-22

@@ -30,7 +30,6 @@
 - [Beyond the Monolith: Our Angular App’s Journey to Microfrontends](https://medium.com/@bhuvaneshwari-balasubramanian/beyond-the-monolith-our-angular-apps-journey-to-microfrontends-2afe15996aae) by Balasubramanian
 B.
 
-
 **2024**
 
 - [How Micro-Frontends are reshaping Modern Web Architecture](https://lucamezzalira.medium.com/how-micro-frontends-are-reshaping-modern-web-architecture-0259ce7dfb7f) by Luca Mezzalira
@@ -346,6 +345,8 @@ B.
 - [Maintainability improvement of microservices based applications using micro frontend](https://doi.org/10.1080/1206212X.2025.2450250) by Neha Kaushik et al. (2025)
 
 - [Toward Bundler-Independent Module Federations: Enabling Typed Micro-Frontend Architectures](https://arxiv.org/html/2501.18225v1) by B. Lando & W. Hasselbring (2025)
+
+- [A Catalog of Micro Frontends Anti-patterns](https://arxiv.org/html/2411.19472v1) by Nabson Paiva & Eriky Rodrigues (2024)
 
 - [Implementing Digital Twins via micro-frontends, micro-services, and web 3D](https://doi.org/10.1016/j.cag.2024.103946) by B. Simoes et. al. (2024)
 
