@@ -1,6 +1,5 @@
 name: Check README Links
 
-
 on:
   # Trigger on push to main/master branch for testing
   push:
@@ -28,6 +27,35 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: '18'
+    
+    - name: Create link check config
+      run: |
+        mkdir -p .github
+        cat > .github/link-check-config.json << 'EOF'
+        {
+          "ignorePatterns": [
+            {
+              "pattern": "^http://localhost"
+            },
+            {
+              "pattern": "^https://localhost"
+            }
+          ],
+          "httpHeaders": [
+            {
+              "urls": ["https://github.com"],
+              "headers": {
+                "User-Agent": "Mozilla/5.0 (compatible; LinkChecker)"
+              }
+            }
+          ],
+          "timeout": "10s",
+          "retryOn429": true,
+          "retryCount": 3,
+          "fallbackRetryDelay": "30s",
+          "aliveStatusCodes": [200, 206, 999]
+        }
+        EOF
     
     - name: Install link checker
       run: npm install -g markdown-link-check
@@ -79,35 +107,6 @@ jobs:
         
         # Display results
         cat $RESULTS_FILE
-    
-    - name: Create link check config
-      run: |
-        mkdir -p .github
-        cat > .github/link-check-config.json << 'EOF'
-        {
-          "ignorePatterns": [
-            {
-              "pattern": "^http://localhost"
-            },
-            {
-              "pattern": "^https://localhost"
-            }
-          ],
-          "httpHeaders": [
-            {
-              "urls": ["https://github.com"],
-              "headers": {
-                "User-Agent": "Mozilla/5.0 (compatible; LinkChecker)"
-              }
-            }
-          ],
-          "timeout": "10s",
-          "retryOn429": true,
-          "retryCount": 3,
-          "fallbackRetryDelay": "30s",
-          "aliveStatusCodes": [200, 206, 999]
-        }
-        EOF
     
     - name: Create Issue on Dead Links
       if: steps.link-check.outputs.dead_links_found == 'true'
