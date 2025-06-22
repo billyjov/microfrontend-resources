@@ -468,6 +468,10 @@ Frontend Anwendung](https://www.szi.uni-bremen.de/wp-content/uploads/2022/04/the
 
 ## Proof of concepts
 
+- [Micro Frontends with Angular and Module Federation](https://github.com/cau-se/bimfjjfjf)
+
+- [Bundle independent micro frontends with module federation](https://github.com/cau-se/bimf)
+
 - [Implementation examples of module federation , by the creators of module federation](https://github.com/module-federation/module-federation-examples)
 
 - [Nx micro frontend example](https://github.com/nrwl/nx-examples)
