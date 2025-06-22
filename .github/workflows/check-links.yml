@@ -1,11 +1,20 @@
 name: Check README Links
 
-# on:
-#   schedule:
-#     # Run daily at midnight UTC
-#     - cron: '0 0 * * *'
-#   # Allow manual trigger
-#   workflow_dispatch:
+
+on:
+  # Trigger on push to main/master branch for testing
+  push:
+    branches: [ main, master ]
+    paths: [ 'README.md', 'readme.md', 'Readme.md' ]
+  # Trigger on pull requests that modify README
+  pull_request:
+    branches: [ main, master ]
+    paths: [ 'README.md', 'readme.md', 'Readme.md' ]
+  schedule:
+    # Run daily at midnight UTC
+    - cron: '0 0 * * *'
+  # Allow manual trigger
+  workflow_dispatch:
 
 jobs:
   check-links:
