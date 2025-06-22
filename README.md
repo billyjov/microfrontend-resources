@@ -400,11 +400,9 @@ Frontend Anwendung](https://www.szi.uni-bremen.de/wp-content/uploads/2022/04/the
 
 - [A Brief Review of Micro-frontends](https://uijrt.com/articles/v2/i8/UIJRTV2I80017.pdf) by Y.R. Prajwal et al. (2021)
 
-- [Design Systems for Micro Frontends-An Investigation into the Development
-  of Framework-Agnostic Design Systems using Svelte and Tailwind CSS](https://epb.bibl.th-koeln.de/frontdoor/deliver/index/docId/1666/file/SCIBachelor_Design_Systems_and_Micro_Frontends.pdf) by Marvin Christian Klimm (2021)
+- [Design Systems for Micro Frontends-An Investigation into the Development of Framework-Agnostic Design Systems using Svelte and Tailwind CSS](https://epb.bibl.th-koeln.de/frontdoor/deliver/index/docId/1666/file/SCIBachelor_Design_Systems_and_Micro_Frontends.pdf) by Marvin Christian Klimm (2021)
 
-- [Micro frontend architecture for cross framework
-  reusability in practice](https://libstore.ugent.be/fulltxt/RUG01/002/946/106/RUG01-002946106_2021_0001_AC.pdf) by Veerle Ongenae et al. (2021)
+- [Micro frontend architecture for cross framework reusability in practice](https://libstore.ugent.be/fulltxt/RUG01/002/946/106/RUG01-002946106_2021_0001_AC.pdf) by Veerle Ongenae et al. (2021)
 
 - [An Exploratory Study of Micro Frontends](https://www.diva-portal.org/smash/get/diva2:1570726/FULLTEXT01.pdf) by Anna Montelius (2021)
 
