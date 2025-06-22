@@ -39,6 +39,9 @@
 
 - [Angular micro frontends — a modern approach to complex app development](https://angular.love/angular-micro-frontends-a-modern-approach-to-complex-app-development) by Mateusz Basiński
 
+- [Announcing Native Federation for Angular 17.1](https://www.angulararchitects.io/en/blog/announcing-native-federation-for-angular-17-1/) by Manfred Steyer
+
+
 **2023**
 
 - [Everything You Need to Know About Micro Frontends](https://newsletter.systemdesign.one/p/micro-frontends) by Neo Kim
@@ -46,6 +49,7 @@
 - [Module Federation Shared API](https://dev.to/infoxicator/module-federation-shared-api-ach) by Ruben Casas
 - [Micro Frontend Architecture: Helping you move from theory to practice with our workshop](https://www.nearform.com/digital-community/micro-frontend-architecture-helping-you-move-from-theory-to-practice-with-our-workshop/) by Mateja Ristic, Ruslan Bredikhin
 - [React Micro Frontends with Module Federation](https://www.nearform.com/insights/react-micro-frontends-module-federation/) by Matteo Pietro Dazzi
+- [Micro Frontends with Modern Angular – Part 1: Standalone and esbuild](https://www.angulararchitects.io/en/blog/micro-frontends-with-modern-angular-part-1-standalone-and-esbuild/) by Manfred Steyer
 
 **2022**
 
@@ -286,7 +290,7 @@
 
 ## Videos
 
-- [Micro frotends Conference 2024](https://www.youtube.com/watch?v=LFC6lXgl6rk&list=PLQ9i8GS-LNXk2uLpVXV484lk20FDKpnAX)
+- [Micro frontends Conference 2024](https://www.youtube.com/watch?v=LFC6lXgl6rk&list=PLQ9i8GS-LNXk2uLpVXV484lk20FDKpnAX)
 - [Micro frontends Conference 2023](https://www.youtube.com/playlist?list=PLQ9i8GS-LNXkJulBBvezBeOVeRJTF8TjY)
 - [Professional Micro-Frontend Shared State Setup](https://www.youtube.com/watch?v=432thqUKs-Y)
 - [Micro-Frontends Course - Beginner to Expert](https://www.youtube.com/watch?v=lKKsjpH09dU)
@@ -301,6 +305,7 @@
 - [TUI Modular Web Architecture](https://web.tui/)
 - [Feature Hub - Create scalable web applications using micro frontends](https://feature-hub.io/)
 - [Webpack 5 Module Federation: start treating your component libraries as independently deployed services](https://module-federation.github.io/)
+- [Native Federation](https://www.npmjs.com/package/@softarc/native-federation) | [Angular Native Federation](https://www.npmjs.com/package/@angular-architects/native-federation) | [Vanilla Native Federation](https://www.npmjs.com/package/vanilla-native-federation)
 - [Qiankun: Blazing fast, simple and completed solution for micro frontends](https://github.com/umijs/qiankun)
 - [Single SPA: a javascript framework for front-end microservices](https://single-spa.js.org/)
 - [Ara Framework: Build Micro-frontends easily using Airbnb Hypernova](https://ara-framework.github.io/website/)
