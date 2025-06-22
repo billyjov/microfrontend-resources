@@ -27,7 +27,9 @@
 
 **2025**
 
-- [Beyond the Monolith: Our Angular App’s Journey to Microfrontends](https://medium.com/@bhuvaneshwari-balasubramanian/beyond-the-monolith-our-angular-apps-journey-to-microfrontends-2afe15996aae)
+- [Beyond the Monolith: Our Angular App’s Journey to Microfrontends](https://medium.com/@bhuvaneshwari-balasubramanian/beyond-the-monolith-our-angular-apps-journey-to-microfrontends-2afe15996aae) by Balasubramanian
+B.
+
 
 **2024**
 
@@ -338,6 +340,10 @@
 </div>
 
 ## Papers
+
+- [Micro-Frontend Architecture: A Comparative Study of Startups and Large Established Companies-Suitability, Benefits, Challenges, and Practical Insights](https://doi.org/10.1109/SCSE65633.2025.11030972) by Anat Sutharsica and Nimasha Arambepola (2025)
+
+- [Maintainability improvement of microservices based applications using micro frontend](https://doi.org/10.1080/1206212X.2025.2450250) by Neha Kaushik et al. (2025)
 
 - [Toward Bundler-Independent Module Federations: Enabling Typed Micro-Frontend Architectures](https://arxiv.org/html/2501.18225v1) by B. Lando & W. Hasselbring (2025)
 
