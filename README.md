@@ -302,6 +302,7 @@ B.
 
 ## Frameworks and Libraries
 
+- [Web Fragments](https://web-fragments.dev/)
 - [Piral: Build highly modular applications fully flexible for large scale portal solutions](https://piral.io/)
 - [TUI Modular Web Architecture](https://web.tui/)
 - [Feature Hub - Create scalable web applications using micro frontends](https://feature-hub.io/)
