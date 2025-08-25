@@ -1,0 +1,55 @@
+# Lychee link checker configuration
+# Place this file at: .github/lychee.toml
+
+# Maximum number of concurrent network requests
+max_concurrency = 8
+
+# Accept insecure certificates / disable certificate checking
+insecure = false
+
+# User agent to send with each request
+user_agent = "Mozilla/5.0 (compatible; Lychee)"
+
+# Website timeout from connect to response finished
+timeout = 20
+
+# Minimum wait time in seconds between retries of failed requests
+retry_wait_time = 2
+
+# Number of retries for failed requests
+max_redirects = 5
+
+# Check links in accepted schemes
+scheme = [ "https", "http" ]
+
+# HTTP status codes that are considered successful
+accept = [ 200, 206, 301, 302, 307, 308, 403, 999 ]
+
+# Exclude URLs and mail addresses from checking
+exclude = [
+    "^mailto:",
+    "^http://localhost",
+    "^https://localhost", 
+    "^http://127.0.0.1",
+    "^https://127.0.0.1",
+    "^file://",
+    "linkedin.com/in/",
+    "facebook.com",
+    "twitter.com", 
+    "instagram.com"
+]
+
+# Include additional file extensions
+include_file = [ "md", "html", "htm" ]
+
+# Exclude checking of private IP addresses
+exclude_private = true
+
+# Exclude all loopback addresses  
+exclude_loopback = true
+
+# Exclude all link-local addresses
+exclude_link_local = true
+
+# Exclude checking of mail addresses
+exclude_mail = false

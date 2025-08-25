@@ -1,18 +1,14 @@
 name: Check README Links
 
 on:
-  # Trigger on push to main/master branch for testing
   push:
     branches: [ main, master ]
     paths: [ 'README.md', 'readme.md', 'Readme.md' ]
-  # Trigger on pull requests that modify README
   pull_request:
     branches: [ main, master ]
     paths: [ 'README.md', 'readme.md', 'Readme.md' ]
   schedule:
-    # Run daily at midnight UTC
     - cron: '0 0 * * *'
-  # Allow manual trigger
   workflow_dispatch:
 
 jobs:
@@ -26,148 +22,77 @@ jobs:
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
-        node-version: '18'
+        node-version: '20'
+        cache: 'npm'
     
-    - name: Create link check config
+    - name: Install lychee
       run: |
-        mkdir -p .github
-        cat > .github/link-check-config.json << 'EOF'
-        {
-          "ignorePatterns": [
-            {
-              "pattern": "^http://localhost"
-            },
-            {
-              "pattern": "^https://localhost"
-            }
-          ],
-          "httpHeaders": [
-            {
-              "urls": ["https://github.com"],
-              "headers": {
-                "User-Agent": "Mozilla/5.0 (compatible; LinkChecker)"
-              }
-            }
-          ],
-          "timeout": "10s",
-          "retryOn429": true,
-          "retryCount": 3,
-          "fallbackRetryDelay": "30s",
-          "aliveStatusCodes": [200, 206, 999]
-        }
-        EOF
+        curl -L https://github.com/lycheeverse/lychee/releases/latest/download/lychee-x86_64-unknown-linux-gnu.tar.gz | tar xz
+        sudo mv lychee /usr/local/bin/
     
-    - name: Install link checker
-      run: npm install -g markdown-link-check
+    - name: Setup configuration
+      run: |
+        chmod +x .github/scripts/setup-config.sh
+        ./.github/scripts/setup-config.sh
     
-    - name: Check links in README
+    - name: Check README links
       id: link-check
       run: |
-        echo "Checking links in README files..."
-        
-        # Find all README files
-        README_FILES=$(find . -name "README.md" -o -name "readme.md" -o -name "Readme.md" | head -10)
-        
-        if [ -z "$README_FILES" ]; then
-          echo "No README files found"
-          exit 0
-        fi
-        
-        # Create output directory
-        mkdir -p link-check-results
-        
-        # Check each README file
-        DEAD_LINKS_FOUND=false
-        RESULTS_FILE="link-check-results/results.md"
-        
-        echo "# Link Check Results - $(date)" > $RESULTS_FILE
-        echo "" >> $RESULTS_FILE
-        
-        for file in $README_FILES; do
-          echo "Checking links in: $file"
-          echo "## $file" >> $RESULTS_FILE
-          echo "" >> $RESULTS_FILE
-          
-          # Run markdown-link-check and capture output
-          if markdown-link-check "$file" --config .github/link-check-config.json > temp_output.txt 2>&1; then
-            echo "✅ All links in $file are working" >> $RESULTS_FILE
-          else
-            echo "❌ Dead links found in $file:" >> $RESULTS_FILE
-            echo '```' >> $RESULTS_FILE
-            cat temp_output.txt >> $RESULTS_FILE
-            echo '```' >> $RESULTS_FILE
-            DEAD_LINKS_FOUND=true
-          fi
-          echo "" >> $RESULTS_FILE
-          rm -f temp_output.txt
-        done
-        
-        # Set output for later steps
-        echo "dead_links_found=$DEAD_LINKS_FOUND" >> $GITHUB_OUTPUT
-        
-        # Display results
-        cat $RESULTS_FILE
+        chmod +x .github/scripts/check-links.sh
+        ./.github/scripts/check-links.sh
     
-    - name: Create Issue on Dead Links
+    - name: Handle dead links
       if: steps.link-check.outputs.dead_links_found == 'true'
       uses: actions/github-script@v7
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         script: |
           const fs = require('fs');
-          const resultsPath = 'link-check-results/results.md';
+          const { execSync } = require('child_process');
           
-          if (!fs.existsSync(resultsPath)) {
-            console.log('No results file found');
-            return;
-          }
-          
-          const results = fs.readFileSync(resultsPath, 'utf8');
-          const today = new Date().toISOString().split('T')[0];
-          
-          // Check if there's already an open issue for today
-          const issues = await github.rest.issues.listForRepo({
-            owner: context.repo.owner,
-            repo: context.repo.repo,
-            state: 'open',
-            labels: 'dead-links'
+          // Make script executable and run it
+          execSync('chmod +x .github/scripts/handle-issues.js');
+          execSync('node .github/scripts/handle-issues.js', {
+            env: {
+              ...process.env,
+              GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}',
+              GITHUB_REPOSITORY: context.repo.owner + '/' + context.repo.repo,
+              GITHUB_WORKFLOW: context.workflow,
+              TOTAL_FILES: '${{ steps.link-check.outputs.total_files }}',
+              FILES_WITH_ISSUES: '${{ steps.link-check.outputs.files_with_issues }}',
+              BROKEN_LINKS: '${{ steps.link-check.outputs.broken_links }}'
+            }
           });
-          
-          const existingIssue = issues.data.find(issue => 
-            issue.title.includes(`Dead Links Found - ${today}`)
-          );
-          
-          if (existingIssue) {
-            // Update existing issue
-            await github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: existingIssue.number,
-              body: `## Updated Results\n\n${results}`
-            });
-            console.log(`Updated existing issue #${existingIssue.number}`);
-          } else {
-            // Create new issue
-            await github.rest.issues.create({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              title: `Dead Links Found - ${today}`,
-              body: `## 🔗 Dead Links Detected in README\n\nThe automated link checker found dead links in your micro frontend resources README.\n\n${results}\n\n---\n*This issue was automatically created by the link checker workflow.*`,
-              labels: ['dead-links', 'maintenance']
-            });
-            console.log('Created new issue for dead links');
-          }
     
-    - name: Comment on Success
+    - name: Close fixed issues
       if: steps.link-check.outputs.dead_links_found == 'false'
-      run: |
-        echo "✅ All links are working properly!"
-        echo "No dead links found in README files."
+      uses: actions/github-script@v7
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        script: |
+          const { execSync } = require('child_process');
+          
+          execSync('chmod +x .github/scripts/close-issues.js');
+          execSync('node .github/scripts/close-issues.js', {
+            env: {
+              ...process.env,
+              GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}',
+              GITHUB_REPOSITORY: context.repo.owner + '/' + context.repo.repo,
+              TOTAL_FILES: '${{ steps.link-check.outputs.total_files }}'
+            }
+          });
     
-    - name: Upload Results
+    - name: Upload results
       if: always()
       uses: actions/upload-artifact@v4
       with:
-        name: link-check-results
+        name: link-check-results-${{ github.run_number }}
         path: link-check-results/
         retention-days: 30
+        
+    - name: Set job summary
+      if: always()
+      run: |
+        if [ -f "link-check-results/results.md" ]; then
+          cat link-check-results/results.md >> $GITHUB_STEP_SUMMARY
+        fi
