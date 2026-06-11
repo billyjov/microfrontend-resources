@@ -22,6 +22,8 @@
 - https://microfrontend.dev/
 - https://micro-frontends.org/
 - https://microfrontends.info/
+- https://native-federation.com/
+- https://module-federation.io/
 
 ## Blog Posts
 
@@ -472,7 +474,7 @@
 
 ## Proof of concepts
 
-- [Micro Frontends with Angular and Module Federation](https://github.com/cau-se/bimfjjfjf)
+- [Micro Frontends with Angular and Module Federation](https://github.com/cau-se/bimf)
 
 - [Bundle independent micro frontends with module federation](https://github.com/cau-se/bimf)
 
