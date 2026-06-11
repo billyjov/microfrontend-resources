@@ -21,14 +21,18 @@
 
 - https://microfrontend.dev/
 - https://micro-frontends.org/
-- https://web.tui/technology/microfrontends/
+- https://microfrontends.info/
 
 ## Blog Posts
+
+**2026**
+
+- [Netflix Micro-Frontends Architecture Lessons – Implementation Guide](https://hashbyt.com/blog/netflix-micro-frontends-architecture-transformation-2026) by Parth G
 
 **2025**
 
 - [Beyond the Monolith: Our Angular App’s Journey to Microfrontends](https://medium.com/@bhuvaneshwari-balasubramanian/beyond-the-monolith-our-angular-apps-journey-to-microfrontends-2afe15996aae) by Balasubramanian
-B.
+  B.
 
 **2024**
 
@@ -41,7 +45,6 @@ B.
 - [Angular micro frontends — a modern approach to complex app development](https://angular.love/angular-micro-frontends-a-modern-approach-to-complex-app-development) by Mateusz Basiński
 
 - [Announcing Native Federation for Angular 17.1](https://www.angulararchitects.io/en/blog/announcing-native-federation-for-angular-17-1/) by Manfred Steyer
-
 
 **2023**
 
@@ -56,12 +59,11 @@ B.
 
 - [Multi-Framework and -Version Micro Frontends with Module Federation: Your 4 Steps Guide](https://www.angulararchitects.io/aktuelles/multi-framework-and-version-micro-frontends-with-module-federation-your-4-steps-guide/) by Manfred Steyer
 
-- [The Micro-Frontends future](https://lucamezzalira.com/2022/03/01/the-micro-frontends-future/) by Luca Mezzalira 
+- [The Micro-Frontends future](https://lucamezzalira.com/2022/03/01/the-micro-frontends-future/) by Luca Mezzalira
 
-- [Integration of dot js Frameworks to Micro Frontend](https://www.xenonstack.com/blog/js-integration-micro-frontend) by Navdeep Singh Gill 
+- [Integration of dot js Frameworks to Micro Frontend](https://www.xenonstack.com/blog/js-integration-micro-frontend) by Navdeep Singh Gill
 
 - [The Complete Guide to Micro Frontend with React.js for 2022](https://dev.to/devsmitra/the-complete-guide-to-micro-frontend-with-reactjs-for-2022-36b2) by Rahul Sharma
-
 
 **2021**
 
@@ -221,7 +223,7 @@ B.
 
 - [Serverless for Frontends](https://www.youtube.com/watch?v=8yI3O8-ej5I) by Florian Rappl
 
-- [Rethinking Auth for SPAs and  Micro Frontends:  Easy and Secure With Gateways](https://speakerdeck.com/manfredsteyer/rethinking-auth-for-spas-and-micro-frontends-easy-and-secure-with-gateways) by Manfred Steyer
+- [Rethinking Auth for SPAs and Micro Frontends: Easy and Secure With Gateways](https://speakerdeck.com/manfredsteyer/rethinking-auth-for-spas-and-micro-frontends-easy-and-secure-with-gateways) by Manfred Steyer
 
 - [Beyond Micro Frontends: Frontend Moduliths for the Enterprise](https://speakerdeck.com/manfredsteyer/beyond-micro-frontends-frontend-moduliths-for-the-enterprise-at-enterjs2022) by Manfred Steyer
 
@@ -341,6 +343,8 @@ B.
 
 ## Papers
 
+- [Micro Frontends in the Wild: A Field Experiment of Architectural Problems, Causes, and Consequences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6182207) by Silva et al.
+
 - [Micro-Frontend Architecture: A Comparative Study of Startups and Large Established Companies-Suitability, Benefits, Challenges, and Practical Insights](https://doi.org/10.1109/SCSE65633.2025.11030972) by Anat Sutharsica and Nimasha Arambepola (2025)
 
 - [Maintainability improvement of microservices based applications using micro frontend](https://doi.org/10.1080/1206212X.2025.2450250) by Neha Kaushik et al. (2025)
@@ -360,7 +364,7 @@ B.
 - [Exploring the technologies and architectures used to develop micro-frontend applications: A systematic mapping and emerging perspectives](http://dx.doi.org/10.13140/RG.2.2.21968.52481) by V. Adriano & K. Farias (2024)
 
 - [Patent on utilizing Micro-frontend style development to build a CRM Application](https://patents.google.com/patent/US20200226615A1/en) by Tanmaya Gaur, Kevin Lau, Valeri Reeves, Shashank ReddyAnugu, Sreenivasulu
-Thimmanapalli, Gregory Wright
+  Thimmanapalli, Gregory Wright
 
 - [Applications of Micro-Frontend Application Development in a Customer Support CRM](https://www.ijcttjournal.org/2024/Volume-72%20Issue-6/IJCTT-V72I6P103.pdf) by Tanmaya Gaur (2024)
 
@@ -389,8 +393,8 @@ Thimmanapalli, Gregory Wright
 - [Implementing Micro Frontends Using Signal-based Web Components](https://doi.org/10.2197/ipsjjip.30.505) by Yuma Nishizu, Tetsuo Kamina (2022)
 
 - [**DE-de**] [Extrahieren von Micro-Frontends
-aus einer monolithischen
-Frontend Anwendung](https://www.szi.uni-bremen.de/wp-content/uploads/2022/04/thesis-lando-2022.pdf) by Billy Lando (2022)
+  aus einer monolithischen
+  Frontend Anwendung](https://www.szi.uni-bremen.de/wp-content/uploads/2022/04/thesis-lando-2022.pdf) by Billy Lando (2022)
 
 - [Design Systems for Micro Frontends -
   An Investigation into the Development of Framework-Agnostic
@@ -421,7 +425,6 @@ Frontend Anwendung](https://www.szi.uni-bremen.de/wp-content/uploads/2022/04/the
 - [Towards a Modular Architecture for Industrial HMIs](https://ieeexplore.ieee.org/document/9212011) by M. Shakil and A. Zoitl (2020)
 
 - [Micro frontend architecture for cross framework reusability in practice](https://libstore.ugent.be/fulltxt/RUG01/002/946/106/RUG01-002946106_2021_0001_AC.pdf) by T. De Smet(2020)
-
 
 - [Research and Application of Micro Frontends](https://iopscience.iop.org/article/10.1088/1757-899X/490/6/062082/pdf) by Caifang Yang et al (2019)
 
